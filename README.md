@@ -1,9 +1,9 @@
 # Introduction to Uncertainty Quantification
 
 This version of the course is being taught at Purdue University during Spring 2018.
-The code for the course is ME 59700.
-The instructors is Prof. [Ilias Bilionis](http://www.predictivesciencelab.org/people.html).
-The class meets every Tuesday and Thursday 1:30pm-2:45pm at ME ????.
+The code for the course is ME 59700 and MA 598.
+The instructor is Prof. [Ilias Bilionis](http://www.predictivesciencelab.org/people.html).
+The class meets every Tuesday and Thursday 12:00pm-1:15pm at Lambert Field House & Gym 104	.
 
 The goal of this course is to introduce the fundamentals of uncertainty quantification to advanced undergraduates or graduate engineering and science students with research interests in the field of predictive modeling. Upon completion of this course the students should be able to:
 
@@ -21,71 +21,17 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Lectures
 
-+ [Lecture 1 - Introduction to Uncertainty Quantification](lectures/lec_01.ipynb) on 01/12/2017.
++ Lecture 1 - Introduction to Uncertainty Quantification on 01/09/2018.
+  
+  - Slides
+  - Notebook
 
-+ [Lecture 2 - Probability Theory](lectures/lec_02.ipynb) on 01/14/2017.
-
-+ [Lecture 3 - Probability Distributions](lectures/lec_03.ipynb) on 01/19/2017.
-
-+ [Lecture 4 - Uncertainty Propagation using Sampling Methods: Monte Carlo](lectures/lec_04.ipynb) on 01/21/2017.
-
-+ [Lecture 5 - Uncertainty Propagation using Sampling Methods: Latin-hypercube designs](lectures/lec_05.ipynb) on 01/26/2017.
-
-+ [Lecture 6 - Uncertainty Propagation using Polynomial Chaos I](lectures/lec_06.ipynb) on 01/28/2017.
-
-+ [Lecture 7 - Uncertainty Propagation using Polynomial Chaos II](lectures/lec_07.ipynb) on 02/02/2017.
-
-+ [Lecture 8 - Uncertainty Propagation using Polynomial Chaos III](lectures/lec_08.ipynb) on 02/04/2017.
-
-+ [Lecture 9 - Maximum Likelihood, Bayesian Parameter Estimation, Bayesian Linear Regression](lectures/lec_09.ipynb) on 02/09/2017.
-
-+ [Lecture 10 - Priors of Function Spaces: Gaussian Processes](lectures/lec_10.ipynb) on 02/11/2017.
-
-+ [Lecture 11 - Gaussian Process Regression](lectures/lec_11.ipynb) on 02/16/2017.
-
-+ [Lecture 12 - Dimensionality Reduction: Principal Component Analysis](lectures/lec_12.ipynb) on 02/18/2017.
-
-+ [Lecture 13 - Dimensionality Reduction of Random Fields: The Karhunen-Loeve Expansion](lectures/lec_13.ipynb) on 02/23/2017.
-
-+ [Lecture 14](lectures/lec_14.ipynb) on 02/25/2017.
-
-+ [Lecture 15](lectures/lec_15.ipynb) on 03/01/2017.
-
-+ [Lecture 16](lectures/lec_16.ipynb) on 03/03/2017.
-
-+ [Lecture 17](lectures/lec_17.ipynb) on 03/08/2017.
-
-+ [Lecture 18](lectures/lec_18.ipynb) on 03/10/2017.
-
-+ [Lecture 19](lectures/lec_19.ipynb) on 03/22/2017.
-
-+ [Lecture 20](lectures/lec_20.ipynb) on 03/24/2017.
-
-+ [Lecture 21 - Markov Chain Monte Carlo Methods (Part I)](lectures/lec_21.ipynb) on 03/29/2017.
-
-+ [Lecture 22 - Markov Chain Monte Carlo Methods (Part II)](lectures/lec_22.ipynb) on 03/31/2017.
-
-+ [Lecture 23](lectures/lec_23.ipynb) on 04/05/2017.
-
-+ [Lecture 24](lectures/lec_24.ipynb) on 04/07/2017.
-
-+ [Lecture 25 - How to Optimize Expensive Functions](lectures/lec_25.ipynb) on 04/12/2017.
-
-+ [Lecture 26 - Sequential Monte Carlo and Bayesian Model Comparison](lectures/lec_26.ipynb) on 04/14/2017.
++ Lecture 2 - Probability Theory I] on 01/11/2018.
 
 
 ## Homework Sets
 
-+ [Homework 1](hw/hw_01.ipynb) due on 01/26/2017.
-
-+ [Homework 2](hw/hw_02.ipynb) due on 02/18/2017.
-
-+ [Homework 3](hw/hw_03.ipynb) due on 03/03/2017.
-
-+ [Homework 4](hw/hw_04.ipynb) due on 04/07/2017.
-
-+ [Homework 5](hw/hw_05.ipynb) due on 04/21/2017.
-
++ [Homework 1](hw/hw_01.ipynb) due on 01/16/2018.
 
 
 ## Installation of Required Software for Viewing the Notebookes
