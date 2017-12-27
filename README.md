@@ -26,7 +26,10 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Slides
   - Notebook
 
-+ Lecture 2 - Probability Theory I] on 01/11/2018.
++ Lecture 2 - Probability Theory I on 01/11/2018.
+
+  - Slides
+  - Notebook
 
 
 ## Homework Sets
