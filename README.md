@@ -21,10 +21,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Lectures
 
-+ Lecture 1 - Introduction to Uncertainty Quantification on 01/09/2018.
-  
-  - Slides
-  - Notebook
++ [Lecture 1 - Introduction to Uncertainty Quantification on 01/09/2018](https://github.com/PredictiveScienceLab/uq-course/blob/master/handouts/handout_02.ipynb).
+
 
 + Lecture 2 - Probability Theory I on 01/11/2018.
 
