@@ -21,20 +21,14 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Lectures
 
-+ Lecture 1 - Introduction to Uncertainty Quantification on 01/09/2018.
++ Lecture 1 - Introduction on 01/09/2018.
   
-  - Slides
-  - Notebook
-
-+ Lecture 2 - Probability Theory I on 01/11/2018.
-
-  - Slides
-  - Notebook
+  - [Notebook](handouts/handout_01.ipynb)
 
 
-## Homework Sets
+## Homework Notebooks
 
-+ [Homework 1](hw/hw_01.ipynb) due on 01/16/2018.
++ ...
 
 
 ## Installation of Required Software for Viewing the Notebookes
