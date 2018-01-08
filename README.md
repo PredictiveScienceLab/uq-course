@@ -24,6 +24,12 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 1 - Introduction on 01/09/2018.
   
   - [Notebook](handouts/handout_01.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5ad23r6uy2x4)
+  
++ Lecture 2 - Quantifying Uncertainties in Physical Models
+
+  - [Notebook](handouts/handout_02.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
 
 
 ## Homework Notebooks
