@@ -26,9 +26,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_01.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5ad23r6uy2x4)
   
-+ Lecture 2 - Quantifying Uncertainties in Physical Models
++ Lecture 2 - Quantifying Uncertainties in Physical Models n 01/11/2018.
 
-  - [Notebook](handouts/handout_02.ipynb) on 01/11/2018.
+  - [Notebook](handouts/handout_02.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
 
 
