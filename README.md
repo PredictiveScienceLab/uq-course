@@ -3,7 +3,7 @@
 This version of the course is being taught at Purdue University during Spring 2018.
 The code for the course is ME 59700 and MA 598.
 The instructor is Prof. [Ilias Bilionis](http://www.predictivesciencelab.org/people.html).
-The class meets every Tuesday and Thursday 12:00pm-1:15pm at Lambert Field House & Gym 104	.
+The class meets every Tuesday and Thursday 12:00pm-1:15pm at GRIS 102.
 
 The goal of this course is to introduce the fundamentals of uncertainty quantification to advanced undergraduates or graduate engineering and science students with research interests in the field of predictive modeling. Upon completion of this course the students should be able to:
 
