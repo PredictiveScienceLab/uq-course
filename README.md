@@ -31,7 +31,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_02.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
 
-+ Lecture 3 - Introcution to Probability Theory on 01/16/2018.
++ Lecture 3 - Introduction to Probability Theory on 01/16/2018.
 
   - [Notebook](handouts/handout_03.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc9m59l3p8y5sy)
