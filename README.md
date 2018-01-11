@@ -21,24 +21,184 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Lectures
 
-+ Lecture 1 - Introduction on 01/09/2018.
++ Lecture 1 - Introduction, 01/09/2018.
   
+  - Topics: Course logistics.
   - [Notebook](handouts/handout_01.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5ad23r6uy2x4)
   
-+ Lecture 2 - Quantifying Uncertainties in Physical Models on 01/11/2018.
++ Lecture 2 - Quantifying Uncertainties in Physical Models, 01/11/2018.
 
+  - Topics: Scope of UQ; Aleatoric vs epistemic uncertainties; Uncertainty propagation problem; Hands-on example.
   - [Notebook](handouts/handout_02.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
 
-+ Lecture 3 - Introcution to Probability Theory on 01/16/2018.
++ Lecture 3 - Introcution to Probability Theory (Part I), 01/16/2018.
 
+  - Topics: Dynamics of coin toss; Interpretation of probability; Basic rules of probability; Practice examples; Probability as an extension of Aristotelian logic.
   - [Notebook](handouts/handout_03.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc8azrf8f3x3a)
+  
++ Lecture 4 - Introduction to Probability Theory (Part II), 01/18/2018.
+
+  - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 5 - Common Random Variables, 01/23/2018.
+
+  - Topics: Uniform distribution; Generating uniform random numbers; Bernoulli distribution and how to sample it; Binomial distribution; Poisson distribution.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 6 - Turning Prior Information to Probability Statements, 01/25/2018.
+
+  - Topics: Principle of insufficient reason, maximum entropy principle, statistical mechanics.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 7 - Bayesian Parameter Estimation, 01/30/2018.
+
+  - Topics: Maximum likelihood; maximum a posteriori estimates; generalized linear regression; the evidence approximation; automatic relevance determination.
+  - [Notebook](...)
+  - [Slides](...)
+
++ Lecture 8 - Priors on Function Spaces, 02/01/2018.
+
+  - Topics: Random fields, Gaussian random fields (Gaussian processes)
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 9 - Conditioning a Random Field on Observations, 02/06/2018.
+
+  - Topics: Gaussian process regression
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 10 - Reducing the Dimensionality of Random Fields, 02/08/2018.
+
+  - Topics: Karhunen-Lo\`eve expansion (KLE); Nystr\"om approximation to the KLE.
+  - [Notebook](...)
+  - [Slides](...)
+   
++ Lecture 11 - Uncertainty Propagation: Sampling Methods I, 02/13/2018.
+
+  - Topics: Monte Carlo; high-dimensional integration; error estimates; convergence; importance sampling.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 12 - Uncertainty Propagation: Sampling Methods II, 02/15/2018.
+
+  - Topics: Latin hyper-cube designs; multi-level Monte Carlo.
+  - [Notebook](...)
+  - [Slides](...)
+   
++ Lecture 13 - Uncertainty Propagation: Polynomial Chaos I, 02/20/2018.
+
+  - Topics: Orthogonal polynomials; recursive relations for calculating orthogonal polynomials; solving stochastic ODEs; solving stochastic PDEs;
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 14 - Uncertainty Propagation: Polynomial Chaos II, 02/22/2018.
+
+  - Topics: The collocation approach; sparse grid collocation; adaptive sparse grid collocation; the curse of dimensionality.
+  - [Notebook](...)
+  - [Slides](...)
+ 
++ Lecture 15 - Uncertainty Propagation: Bayesian Approaches & High-dimensions, 02/27/2018.
+  
+  - Topics: Quantifying epistemic uncertainties induced by limited data; principal component analysis.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 16 - Markov Chain Monte Carlo I, 03/01/2018.
+
+  - Topics: Metropolis; Metropolis-Hastings; experessing models in pymc;
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 17 - Markov Chain Monte Carlo II, 03/06/2018.
+
+  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 18 - Bayesian Monte Selection using Sequential Monte Carlo, 03/08/2018.
+
+  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ **No lecture on Tuesday 03/12/2018** (spring break).
+
++ **No lecture on Thursday 03/15/2018** (spring break).
+
++ Lecture 19 - Accelerating Bayesian Statistics, 03/20/2018.
+
+  - Topics: Kullback-Leibler divergence; expectation propagation; variational infernece.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ **No lecture on Thursday 03/22/2018** (The instructor will be at [2018 NSF Design Circle Workshop: Designing and Developing Global Engineering Systems](http://blogs.oregonstate.edu/designcircle/)).
+  
++ Lecture 20 - Inverse Problems/Model Calibration: Classic Approaches, 03/27/2018.
+ 
+  - Topics: Loss function minimization; Tikhonov regularization.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 21 - Inverse Problems/Model Calibration: Bayesian Approaches, 03/29/2018.
+
+  - Topics: stochastic formulation of inverse problems; the Laplace approximation; solving inverse problems with MCMC; hierarchical Bayes modeling.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 22 - Inverse Problems/Model Calibration: Selection of Optimal Experiments, 04/03/2018.
+
+  - Topics: expected information gain; optimization of sensor locations; design of experiments;
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 23 - Posing and Solving Optimization Problems Under Uncertainty, 04/05/2018.
+
+  - Topics: expected utility maximization; multi-objective optimation; risk; min-max approach; soft constraints; sampling average approximation.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 24 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/10/2018.
+
+  - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 25 - Data Assimilation in Dynamical Systems, 04/12/2018.
+
+  - Topics: Kalman filters; ensemble Kalman filters; particle filters.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ **No lecture on Tuesday 04/16/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
+
++ **No lecture on Thursday 04/19/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
+  
++ Lecture 26 - Multi-fidelity/multi-source information fusion, 04/19/2018.
+
+  - Topics: multi-fidelity Gaussian process regression; multi-output deep neural networks.
+  - [Notebook](...)
+  - [Slides](...)
+  
++ Lecture 27 - Probabilistic Numerics, 04/26/2018.
+
+  - Topics: numerical algorithms as probabilistic inference; quantification of the discretization error in ODEs and PDEs; physical models as information sources.
+  - [Notebook](...)
+  - [Slides](...)
+  
 
 ## Homework Notebooks
 
-+ ...
+(Comming soon)
+
+
 
 
 ## Installation of Required Software for Viewing the Notebookes
