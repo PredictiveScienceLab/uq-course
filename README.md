@@ -196,8 +196,21 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Homework Notebooks
 
-(Comming soon)
++ Homework 1 - Probability Theory Basics, due 01/23/2018.
 
++ Homework 2 - Choosing Prior Probabilities, due 01/30/2018.
+
++ Homework 3 - Bayesian Parameter Estimation, Gaussian Process Regression, due 02/13/2018.
+
++ Homework 4 - Uncertainty Propagation: Sampling Techniques, due 02/20/2018.
+
++ Homework 5 - Uncertainty Propagation: Polynomial Chaos, due 03/01/2018.
+
++ Homework 6 - Advanced Bayesian Infernece Techniques, due 03/27/2018.
+
++ Homework 7 - Inverse Problems/Model Calibration, due 04/05/2018.
+
++ Homework 8 - Optimization Under Unceratinty, due 04/12/2018.
 
 
 
