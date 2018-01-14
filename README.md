@@ -198,7 +198,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Homework Notebooks
 
-+ Homework 1 - Probability Theory Basics, due 01/23/2018.
++ [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcexv8myi7p3rq), due 01/23/2018.
 
 + Homework 2 - Choosing Prior Probabilities, due 01/30/2018.
 
