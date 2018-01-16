@@ -39,7 +39,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Topics: Dynamics of coin toss; Interpretation of probability; Basic rules of probability; Practice examples; Probability as an extension of Aristotelian logic.
   - [Notebook](handouts/handout_03.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0qfiv4nz3fy)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jchtmcf4bcf5n3)
   
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/18/2018.
 
@@ -198,7 +198,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Homework Notebooks
 
-+ [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcexv8myi7p3rq), due 01/23/2018.
++ [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/23/2018.
 
 + Homework 2 - Choosing Prior Probabilities, due 01/30/2018.
 
