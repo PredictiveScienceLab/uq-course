@@ -32,18 +32,20 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Scope of UQ; Aleatoric vs epistemic uncertainties; Uncertainty propagation problem; Hands-on example.
   - [Notebook](handouts/handout_02.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
+  - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0pqc0cxx39e)
+  - [Video](...)
 
 + Lecture 3 - Introcution to Probability Theory (Part I), 01/16/2018.
 
   - Topics: Dynamics of coin toss; Interpretation of probability; Basic rules of probability; Practice examples; Probability as an extension of Aristotelian logic.
   - [Notebook](handouts/handout_03.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc8azrf8f3x3a)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jchtmcf4bcf5n3)
   
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/18/2018.
 
   - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
   - [Notebook](...)
-  - [Slides](...)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0r1i59hr3nc)
   
 + Lecture 5 - Common Random Variables, 01/23/2018.
 
@@ -196,7 +198,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Homework Notebooks
 
-+ Homework 1 - Probability Theory Basics, due 01/23/2018.
++ [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/23/2018.
 
 + Homework 2 - Choosing Prior Probabilities, due 01/30/2018.
 
