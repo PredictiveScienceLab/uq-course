@@ -40,18 +40,20 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Dynamics of coin toss; Interpretation of probability; Basic rules of probability; Practice examples; Probability as an extension of Aristotelian logic.
   - [Notebook](handouts/handout_03.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jchtmcf4bcf5n3)
+  - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcifed4ka9334d)
+  - [Video](...)
   
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/18/2018.
 
   - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
-  - [Notebook](...)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0r1i59hr3nc)
+  - [Video](...)
   
 + Lecture 5 - Common Random Variables, 01/23/2018.
 
   - Topics: Uniform distribution; Generating uniform random numbers; Bernoulli distribution and how to sample it; Binomial distribution; Poisson distribution.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_05.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcifb4nchpnr6)
   
 + Lecture 6 - Turning Prior Information to Probability Statements, 01/25/2018.
 
