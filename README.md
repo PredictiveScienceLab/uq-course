@@ -47,6 +47,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0r1i59hr3nc)
+  - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jckn3jo0rp234j)
   - [Video](...)
   
 + Lecture 5 - Common Random Variables, 01/23/2018.
