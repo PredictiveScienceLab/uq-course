@@ -58,8 +58,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 6 - Turning Prior Information to Probability Statements, 01/25/2018.
 
   - Topics: Principle of insufficient reason, maximum entropy principle, statistical mechanics.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_06.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcjqhmdwtif38d)
   
 + Lecture 7 - Bayesian Parameter Estimation, 01/30/2018.
 
