@@ -203,7 +203,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/23/2018.
 
-+ Homework 2 - Choosing Prior Probabilities, due 01/30/2018.
++ [Homework 2 - Choosing Prior Probabilities](homeworks/hw_02.ipynb), due 01/30/2018.
 
 + Homework 3 - Bayesian Parameter Estimation, Gaussian Process Regression, due 02/13/2018.
 
