@@ -54,13 +54,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Topics: Uniform distribution; Generating uniform random numbers; Bernoulli distribution and how to sample it; Binomial distribution; Poisson distribution.
   - [Notebook](handouts/handout_05.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcifb4nchpnr6)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcuq4thgjk32bo)
   
 + Lecture 6 - Turning Prior Information to Probability Statements, 01/25/2018.
 
   - Topics: Principle of insufficient reason, maximum entropy principle, statistical mechanics.
   - [Notebook](handouts/handout_06.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcjqhmdwtif38d)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcuq5gcljy32pt)
   
 + Lecture 7 - Bayesian Parameter Estimation, 01/30/2018.
 
