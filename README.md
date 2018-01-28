@@ -71,8 +71,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 8 - Generalized Linear Models (Part II), 02/01/2018.
 
   - Topics: Bayesian linear regression; maximum a posteriori estimates; generalized linear regression; the evidence approximation; automatic relevance determination.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_08.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcz8xnf5b3r116)
 
 + Lecture 9 - Priors on Function Spaces, 02/06/2018.
 
