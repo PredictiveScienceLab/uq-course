@@ -77,14 +77,14 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 9 - Generalized Linear Models (Part III), 02/01/2018.
 
   - Topics: The evidence approximation; automatic relevance determination.
-  - [Notebook](handouts/handout_08.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcz8xnf5b3r116)
+  - [Notebook](handouts/handout_08.ipynb) (*it is the same as lecture's 8 handout*)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jd92et3im3f705)
 
 + Lecture 10 - Priors on Function Spaces, 02/08/2018.
 
   - Topics: Random fields, Gaussian random fields (Gaussian processes).
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_10.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jd92f0cjjuw747)
   
 + Lecture 11 - Conditioning a Random Field on Observations, 02/13/2018.
 
