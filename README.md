@@ -89,13 +89,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 11 - Conditioning a Random Field on Observations, 02/13/2018.
 
   - Topics: Gaussian process regression
-  - [Notebook](...)
+  - [Notebook](handouts/handout_11.ipynb)
   - [Slides](...)
   
 + Lecture 12 - Reducing the Dimensionality of Random Fields, 02/15/2018.
 
   - Topics: Karhunen-Lo\`eve expansion (KLE); Nystr\"om approximation to the KLE.
-  - [Notebook](...)
+  - [Notebook](handouts/handout_12.ipynb)
   - [Slides](...)
    
 + Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/20/2018.
