@@ -90,13 +90,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Topics: Gaussian process regression
   - [Notebook](handouts/handout_11.ipynb)
-  - [Slides](...)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdj4dvx098o5ld)
   
 + Lecture 12 - Reducing the Dimensionality of Random Fields, 02/15/2018.
 
   - Topics: Karhunen-Lo\`eve expansion (KLE); Nystr\"om approximation to the KLE.
   - [Notebook](handouts/handout_12.ipynb)
-  - [Slides](...)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdj4eqjt4gk673)
    
 + Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/20/2018.
 
