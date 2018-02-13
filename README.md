@@ -100,13 +100,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
    
 + Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/20/2018.
 
-  - Topics: Monte Carlo; high-dimensional integration; error estimates; convergence; importance sampling.
-  - [Notebook](...)
-  - [Slides](...)
+  - Topics: Monte Carlo; high-dimensional integration; error estimates; convergence.
+  - [Notebook](handouts/handout_13.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdm9fe56l3669e)
   
 + Lecture 14 - Uncertainty Propagation: Sampling Methods II, 02/22/2018.
 
-  - Topics: Latin hyper-cube designs; multi-level Monte Carlo.
+  - Topics: Importance sampling; latin hyper-cube designs; multi-level Monte Carlo.
   - [Notebook](...)
   - [Slides](...)
    
