@@ -107,8 +107,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 14 - Uncertainty Propagation: Sampling Methods II, 02/22/2018.
 
   - Topics: Importance sampling; latin hyper-cube designs; multi-level Monte Carlo.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_14.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdqh0pde6ny3jg)
    
 + Lecture 15 - Uncertainty Propagation: Polynomial Chaos I, 02/27/2018.
 
