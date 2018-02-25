@@ -217,7 +217,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 3 - Bayesian Linear Regression](homeworks/hw_03.ipynb), due 02/15/2018.
 
-+ Homework 4 - Uncertainty Propagation: Sampling Techniques, due ?.
++ [Homework 4 - Gaussian process regression and KL expansion](homeworks/hw+04.ipynb): due 03/01/2018.
 
 + Homework 5 - Uncertainty Propagation: Polynomial Chaos, due ?.
 
