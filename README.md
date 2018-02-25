@@ -109,28 +109,28 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Importance sampling; latin hyper-cube designs; multi-level Monte Carlo.
   - [Notebook](handouts/handout_14.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdqh0pde6ny3jg)
+
++ Lecture 15 - Uncertainty Propagation: Perturbation Methods, 02/27/2018.
+
+  - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
+  - [Notebook](handouts/handout_15.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/je26yh0hgjm23g)
    
-+ Lecture 15 - Uncertainty Propagation: Polynomial Chaos I, 02/27/2018.
++ Lecture 16 - Uncertainty Propagation: Polynomial Chaos I, 03/01/2018.
 
   - Topics: Orthogonal polynomials; recursive relations for calculating orthogonal polynomials; solving stochastic ODEs; solving stochastic PDEs;
   - [Notebook](...)
   - [Slides](...)
   
-+ Lecture 16 - Uncertainty Propagation: Polynomial Chaos II, 03/01/2018.
++ Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/06/2018.
 
   - Topics: The collocation approach; sparse grid collocation; adaptive sparse grid collocation; the curse of dimensionality.
   - [Notebook](...)
   - [Slides](...)
  
-+ Lecture 17 - Uncertainty Propagation: Bayesian Approaches & High-dimensions, 03/06/2018.
++ Lecture 18 - Uncertainty Propagation: Bayesian Approaches & High-dimensions, 03/08/2018.
   
   - Topics: Quantifying epistemic uncertainties induced by limited data; principal component analysis.
-  - [Notebook](...)
-  - [Slides](...)
-  
-+ Lecture 18 - Markov Chain Monte Carlo I, 03/08/2018.
-
-  - Topics: Metropolis; Metropolis-Hastings; experessing models in pymc;
   - [Notebook](...)
   - [Slides](...)
 
@@ -138,66 +138,68 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + **No lecture on Thursday 03/15/2018** (spring break).
 
-+ Lecture 19 - Markov Chain Monte Carlo II, 03/20/2018.
++ Lecture 19 - Markov Chain Monte Carlo I, 03/20/2018.
 
-  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
+  - Topics: Metropolis; Metropolis-Hastings; expressing models in pymc;
   - [Notebook](...)
   - [Slides](...)
+
 
 + **No lecture on Thursday 03/22/2018** (The instructor will be at [2018 NSF Design Circle Workshop: Designing and Developing Global Engineering Systems](http://blogs.oregonstate.edu/designcircle/)).
 
-+ Lecture 20 - Bayesian Monte Selection using Sequential Monte Carlo, 03/27/2018.
++ Lecture 20 - Markov Chain Monte Carlo II, 03/27/2018.
 
   - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
   - [Notebook](...)
   - [Slides](...)
 
-+ Lecture 21 - Accelerating Bayesian Statistics, 03/29/2018.
++ Lecture 21 - Bayesian Monte Selection using Sequential Monte Carlo, 03/29/2018.
+
+  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
+  - [Notebook](...)
+  - [Slides](...)
+
++ Lecture 22 - Accelerating Bayesian Statistics, 04/03/2018.
 
   - Topics: Kullback-Leibler divergence; expectation propagation; variational infernece.
   - [Notebook](...)
   - [Slides](...)
   
-+ Lecture 22 - Inverse Problems/Model Calibration: Classic Approaches, 04/03/2018.
++ Lecture 23 Inverse Problems/Model Calibration: Classic Approaches, 04/05/2018.
  
   - Topics: Loss function minimization; Tikhonov regularization.
   - [Notebook](...)
   - [Slides](...)
   
-+ Lecture 23 - Inverse Problems/Model Calibration: Bayesian Approaches, 04/05/2018.
++ Lecture 24 - Inverse Problems/Model Calibration: Bayesian Approaches, 04/10/2018.
 
   - Topics: stochastic formulation of inverse problems; the Laplace approximation; solving inverse problems with MCMC; hierarchical Bayes modeling.
   - [Notebook](...)
   - [Slides](...)
   
-+ Lecture 24 - Inverse Problems/Model Calibration: Selection of Optimal Experiments, 04/10/2018.
++ Lecture 25 - Inverse Problems/Model Calibration: Selection of Optimal Experiments, 04/12/2018.
 
   - Topics: expected information gain; optimization of sensor locations; design of experiments;
   - [Notebook](...)
   - [Slides](...)
   
-+ Lecture 25 - Posing and Solving Optimization Problems Under Uncertainty, 04/12/2018.
-
-  - Topics: expected utility maximization; multi-objective optimation; risk; min-max approach; soft constraints; sampling average approximation.
-  - [Notebook](...)
-  - [Slides](...)
   
 + **No lecture on Tuesday 04/16/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
 
 + **No lecture on Thursday 04/19/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
 
-+ Lecture 26 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/19/2018.
++ Lecture 26 - Posing and Solving Optimization Problems Under Uncertainty, 04/19/2018.
+
+  - Topics: expected utility maximization; multi-objective optimation; risk; min-max approach; soft constraints; sampling average approximation.
+  - [Notebook](...)
+  - [Slides](...)
+
++ Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
 
   - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
   - [Notebook](...)
   - [Slides](...)
 
-+ Lecture 27 - Data Assimilation in Dynamical Systems, 04/26/2018.
-
-  - Topics: Kalman filters; ensemble Kalman filters; particle filters.
-  - [Notebook](...)
-  - [Slides](...)
-  
 
 ## Homework Notebooks
 
