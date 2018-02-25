@@ -33,7 +33,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_02.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jc5fvaa8ic74uf)
   - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0pqc0cxx39e)
-  - [Video](...)
+  - [Video](https://nanohub.org/resources/27933/watch?resid=27934)
 
 + Lecture 3 - Introcution to Probability Theory (Part I), 01/16/2018.
 
@@ -41,62 +41,70 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_03.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jchtmcf4bcf5n3)
   - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcifed4ka9334d)
-  - [Video](...)
+  - [Video](https://nanohub.org/resources/27945/watch?resid=27947)
   
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/18/2018.
 
   - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0r1i59hr3nc)
   - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jckn3jo0rp234j)
-  - [Video](...)
+  - [Video](https://nanohub.org/resources/27993/watch?resid=28001)
   
 + Lecture 5 - Common Random Variables, 01/23/2018.
 
   - Topics: Uniform distribution; Generating uniform random numbers; Bernoulli distribution and how to sample it; Binomial distribution; Poisson distribution.
   - [Notebook](handouts/handout_05.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcuq4thgjk32bo)
+  - [Video](https://www.youtube.com/watch?v=HIU7bExENjU)
   
 + Lecture 6 - Turning Prior Information to Probability Statements, 01/25/2018.
 
   - Topics: Principle of insufficient reason, maximum entropy principle, statistical mechanics.
   - [Notebook](handouts/handout_06.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcuq5gcljy32pt)
+  - [Video](https://www.youtube.com/watch?v=Kv82r4Bu338)
   
 + Lecture 7 - Generalized Linear Models (Part I), 01/30/2018.
 
   - Topics: Supervised learning; regression; generalized linear models; least squares; maximum likelihood.
   - [Notebook](handouts/handout_07.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcz3tpfjvn9305)
+  - [Video](https://www.youtube.com/watch?v=KQm-MZwaqts)
   
 + Lecture 8 - Generalized Linear Models (Part II), 02/01/2018.
 
   - Topics: Bayesian linear regression; maximum a posteriori estimates.
   - [Notebook](handouts/handout_08.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcz8xnf5b3r116)
+  - [Video](https://www.youtube.com/watch?v=iZUZ_PxDjjc)
   
 + Lecture 9 - Generalized Linear Models (Part III), 02/01/2018.
 
   - Topics: The evidence approximation; automatic relevance determination.
   - [Notebook](handouts/handout_08.ipynb) (*it is the same as lecture's 8 handout*)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jd92et3im3f705)
+  - [Video](https://www.youtube.com/watch?v=LxHLfkH8iec)
 
 + Lecture 10 - Priors on Function Spaces, 02/08/2018.
 
   - Topics: Random fields, Gaussian random fields (Gaussian processes).
   - [Notebook](handouts/handout_10.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jd92f0cjjuw747)
+  - [Video](https://www.youtube.com/watch?v=B-jmRZ0yncs)
   
 + Lecture 11 - Conditioning a Random Field on Observations, 02/13/2018.
 
   - Topics: Gaussian process regression
   - [Notebook](handouts/handout_11.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdj4dvx098o5ld)
+  - [Video](https://www.youtube.com/watch?v=MiVdNQ5DN8Y)
   
 + Lecture 12 - Reducing the Dimensionality of Random Fields, 02/15/2018.
 
   - Topics: Karhunen-Lo\`eve expansion (KLE); Nystr\"om approximation to the KLE.
   - [Notebook](handouts/handout_12.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdj4eqjt4gk673)
+  - [Video](https://www.youtube.com/watch?v=pQRRCihuOms)
    
 + Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/20/2018.
 
