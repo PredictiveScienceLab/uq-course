@@ -126,9 +126,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
    
 + Lecture 16 - Uncertainty Propagation: Polynomial Chaos I, 03/01/2018.
 
-  - Topics: Orthogonal polynomials; recursive relations for calculating orthogonal polynomials; solving stochastic ODEs; solving stochastic PDEs;
-  - [Notebook](...)
-  - [Slides](...)
+  - Topics: Hilbert space of square integrable functions; orthogonal polynomials; constructing orthonormal polynomials in 1D; Hermite, Laguerre, Legendre polynomials; constructing multi-dimensional orthonormal polynomials; solving stochastic dynamical system with polynomial chaos;
+  - [Notebook](handouts/handout_16.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/je4phdbamoi7ml)
   
 + Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/06/2018.
 
