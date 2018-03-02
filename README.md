@@ -128,7 +128,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Topics: Hilbert space of square integrable functions; orthogonal polynomials; constructing orthonormal polynomials in 1D; Hermite, Laguerre, Legendre polynomials; constructing multi-dimensional orthonormal polynomials; solving stochastic dynamical system with polynomial chaos;
   - [Notebook](handouts/handout_16.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/je4phdbamoi7ml)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jea4oym2rj75h4)
   
 + Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/06/2018.
 
