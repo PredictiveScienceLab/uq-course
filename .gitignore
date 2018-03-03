@@ -9,7 +9,6 @@
 *.pdf
 *.~
 *.dot
-*.txt
 *.pyc
 *.html
 *.pickle
