@@ -132,9 +132,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   
 + Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/06/2018.
 
-  - Topics: The collocation approach; sparse grid collocation; adaptive sparse grid collocation; the curse of dimensionality.
-  - [Notebook](...)
-  - [Slides](...)
+  - Topics: Quadrature rules in 1D; sparse grid collocation; intrusive solution of stochastic dynamical systems; stochastic harmonic oscillator.
+  - [Notebook](handouts/handout_17.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeekkxuvxy84u1)
  
 + Lecture 18 - Uncertainty Propagation: Bayesian Approaches & High-dimensions, 03/08/2018.
   
