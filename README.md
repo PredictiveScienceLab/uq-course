@@ -219,7 +219,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 4 - Gaussian process regression and KL expansion](homeworks/hw_04.ipynb): due 03/01/2018.
 
-+ Homework 5 - Uncertainty Propagation: Polynomial Chaos, due ?.
++ [Homework 5 - Propagating uncertainty using Monte Carlo Latin hypercube sampling](homeworks/hw_05.ipynb): due 03/09/2018.
 
 + Homework 6 - Advanced Bayesian Infernece Techniques, due ?.
 
