@@ -111,18 +111,22 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Monte Carlo; high-dimensional integration; error estimates; convergence.
   - [Notebook](handouts/handout_13.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdm9fe56l3669e)
+  - [Video](https://www.youtube.com/watch?v=ahr7ZRk1AyM)
   
 + Lecture 14 - Uncertainty Propagation: Sampling Methods II, 02/22/2018.
 
   - Topics: Importance sampling; latin hyper-cube designs; multi-level Monte Carlo.
   - [Notebook](handouts/handout_14.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jdqh0pde6ny3jg)
+  - [Video](https://www.youtube.com/watch?v=6O_l-UVUbuU)
 
 + Lecture 15 - Uncertainty Propagation: Perturbation Methods, 02/27/2018.
 
   - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
   - [Notebook](handouts/handout_15.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/je26yh0hgjm23g)
+  - [Video](https://www.youtube.com/watch?v=C8Y47zzq8-E)
+  
    
 + Lecture 16 - Uncertainty Propagation: Polynomial Chaos I, 03/01/2018.
 
