@@ -145,6 +145,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Intrusive polynomial chaos for stochastic dynamical systems; stochastic exponential decay; stochastic harmonic oscillator; Non-intrusive polynomial chaos.
   - [Notebook](handouts/handout_18.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jegdbhy7uth2ar)
+  - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeotr9mszfb13h)
 
 + **No lecture on Tuesday 03/12/2018** (spring break).
 
