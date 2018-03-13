@@ -3,8 +3,10 @@ Forward problem with one source.
 
 Author:
     Panagiotis Tsilifis
+    Ilias Bilionis
 Date:
     06/12/2014
+    3/13/2018
 
 """
 
@@ -13,9 +15,8 @@ import numpy as np
 import fipy as fp
 from transport_model import *
 import sys
-sys.path.insert(0,'../')
-from vuq import Model
-from vuq import view_as_column
+from .. import Model
+from .. import view_as_column
 
 class ContaminantTransportModel(Model):
     """

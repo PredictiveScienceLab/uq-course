@@ -3,9 +3,10 @@ Forward problem
 
 Author:
     Panagiotis Tsilifis
+    Ilias Bilionis
 Date:
     05/22/2014
-
+    03/13/2018
 """
 
 
@@ -13,9 +14,8 @@ import numpy as np
 from model_1 import *
 from model_2 import *
 import sys
-sys.path.insert(0,'../')
-from vuq import Model
-from vuq import view_as_column
+from .. import Model
+from .. import view_as_column
 
 
 
