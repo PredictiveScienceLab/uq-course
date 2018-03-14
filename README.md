@@ -155,7 +155,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
  
   - Topics: Formulation of inverse problems as optimization problems; method of adjoints revisited; calibration of reaction kinetics problem.
   - [Notebook](handouts/handout_19.ipynb)
-  - [Slides](...)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeri5f7ncyj4f)
   
 + **No lecture on Thursday 03/22/2018** (The instructor will be at [2018 NSF Design Circle Workshop: Designing and Developing Global Engineering Systems](http://blogs.oregonstate.edu/designcircle/)).
   
