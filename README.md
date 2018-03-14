@@ -153,8 +153,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 19 Inverse Problems/Model Calibration: Classic Approaches, 03/20/2018.
  
-  - Topics: Loss function minimization; Tikhonov regularization.
-  - [Notebook](...)
+  - Topics: Formulation of inverse problems as optimization problems; method of adjoints revisited; calibration of reaction kinetics problem.
+  - [Notebook](handouts/handout_19.ipynb)
   - [Slides](...)
   
 + **No lecture on Thursday 03/22/2018** (The instructor will be at [2018 NSF Design Circle Workshop: Designing and Developing Global Engineering Systems](http://blogs.oregonstate.edu/designcircle/)).
