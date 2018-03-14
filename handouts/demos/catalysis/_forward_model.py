@@ -46,7 +46,7 @@ class CatalysisModel(Model):
         sol = f(x[:,0], y0[:,0], t[:,0])
         J = df(x[:,0], y0[:,0], t[:,0])
         H = df2(x[:,0], y0[:,0], t[:,0])
-        y = np.delete(sol.reshape((7,6)), 2, 1).flatten() # The 3rd species is unobservable
+        y = np.delete(sol.reshape((7,6)), 2, 1).flatten() # The 3rd species is unobserved
         dy = np.array([np.delete(J[:,i].reshape((7,6)), 2, 1).reshape(35) for i in range(J.shape[1])]) # Delete the 3rd species
         d2y = np.zeros((35, H.shape[1], H.shape[2]))
         for i in range(H.shape[1]):
