@@ -18,6 +18,7 @@ import sys
 from .. import Model
 from .. import view_as_column
 
+
 class ContaminantTransportModel(Model):
     """
     A class representing the forward model of the contaminta transport problem

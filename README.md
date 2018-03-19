@@ -162,8 +162,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 20 - Inverse Problems/Model Calibration: Bayesian Approaches, 03/27/2018.
 
   - Topics: stochastic formulation of inverse problems; the Laplace approximation; solving inverse problems with MCMC; hierarchical Bayes modeling.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_20.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeyg7ilzq8t2sf)
   
 + Lecture 21 - Inverse Problems/Model Calibration: Selection of Optimal Experiments, 03/29/2018.
 

@@ -73,7 +73,7 @@ def f(xs, mesh):
     # Boundary conditions 
     
     # The solution variable
-    phi = fp.CellVariable(name = "Concentraion", mesh=mesh, value=0.)
+    phi = fp.CellVariable(name = "Concentration", mesh=mesh, value=0.)
     
     # Solve
     dt = 0.005
@@ -159,7 +159,7 @@ def df2(xs, mesh, i, j):
     # Boundary conditions 
     
     # The solution variable
-    phi = fp.CellVariable(name = "Concentraion", mesh=mesh, value=0.)
+    phi = fp.CellVariable(name = "Concentration", mesh=mesh, value=0.)
     
     # Solve
     dt = 0.005
