@@ -165,24 +165,21 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_20.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeyg7ilzq8t2sf)
   
-+ Lecture 21 - Inverse Problems/Model Calibration: Selection of Optimal Experiments, 03/29/2018.
++ Lecture 21 - Markov Chain Monte Carlo I, 03/29/2018.
 
-  - Topics: expected information gain; optimization of sensor locations; design of experiments;
+  - Topics: Basics of Markov chains; random walks; Metropolis algorithm; Bayesian calibration of the catalysis problem.
+  - [Notebook](handouts/handout_21.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jf8smnt2y7t3w5)
+
++ Lecture 22 - Markov Chain Monte Carlo II, 04/03/2018.
+
+  - Topics: Metropolis-Hastings; Gibbs sampling.
   - [Notebook](...)
   - [Slides](...)
 
-+ Lecture 22 - Markov Chain Monte Carlo I, 04/03/2018.
++ Lecture 23 - Markov Chain Monte Carlo III, 04/05/2018.
 
-  - Topics: Metropolis; Metropolis-Hastings; expressing models in pymc;
-  - [Notebook](...)
-  - [Slides](...)
-
-
-
-
-+ Lecture 23 - Markov Chain Monte Carlo II, 04/05/2018.
-
-  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
+  - Topics: Hybrid-Monte Carlo; Metropolized Langevin.
   - [Notebook](...)
   - [Slides](...)
 
