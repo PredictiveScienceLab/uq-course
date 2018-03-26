@@ -228,7 +228,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 5 - Propagating uncertainty using Monte Carlo Latin hypercube sampling](homeworks/hw_05.ipynb): due 03/09/2018.
 
-+ Homework 6 - Advanced Bayesian Infernece Techniques, due ?.
++ [Homework 6 - Polynomial Chaos and Stochastic Collocation method](homeworks/hw_06.ipynb), due 03/27/2018.
 
 + Homework 7 - Inverse Problems/Model Calibration, due ?.
 
