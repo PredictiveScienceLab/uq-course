@@ -173,13 +173,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 22 - Markov Chain Monte Carlo II, 04/03/2018.
 
-  - Topics: Metropolis-Hastings; Gibbs sampling.
-  - [Notebook](...)
-  - [Slides](...)
+  - Topics: Metropolis-Hastings; Metropolis-Adjusted Langevin Dynamics; Gibbs sampling; Hierarchical Bayes.
+  - [Notebook](handouts/handout_22.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jfhayrmizm96qo)
 
 + Lecture 23 - Markov Chain Monte Carlo III, 04/05/2018.
 
-  - Topics: Hybrid-Monte Carlo; Metropolized Langevin.
+  - Topics: Hierarchical Bayes examples; Logistic regression; PyMC tutorial.
   - [Notebook](...)
   - [Slides](...)
 
