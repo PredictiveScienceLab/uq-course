@@ -183,16 +183,16 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](...)
   - [Slides](...)
 
-+ Lecture 24 - Bayesian Monte Selection using Sequential Monte Carlo, 04/10/2018.
++ Lecture 24 - Bayesian Model Selection I, 04/10/2018.
 
-  - Topics: Hybrid-Monte Carlo; Delayed rejection adaptive Metropolis.
-  - [Notebook](...)
-  - [Slides](...)
+  - Topics: Model evidence; Sequential Monte Carlo; Adaptive Importance Sampling.
+  - [Notebook](handouts/handout_24.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jfidv8saabj2fi)
 
-+ Lecture 25 - Accelerating Bayesian Statistics, 04/12/2018.
++ Lecture 25 - Bayesian Model Selection II, 04/12/2018.
 
-  - Topics: Kullback-Leibler divergence; expectation propagation; variational infernece.
-  - [Notebook](...)
+  - Topics: PySMC tutorial.
+  - [Notebook](handouts/handout_24.ipynb)
   - [Slides](...)
   
   
@@ -200,15 +200,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + **No lecture on Thursday 04/19/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
 
-+ Lecture 26 - Posing and Solving Optimization Problems Under Uncertainty, 04/19/2018.
++ Lecture 26 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
 
-  - Topics: expected utility maximization; multi-objective optimation; risk; min-max approach; soft constraints; sampling average approximation.
+  - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
   - [Notebook](...)
   - [Slides](...)
 
-+ Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
++ Lecture 27 - Accelerating Bayesian Statistics, 04/12/2018.
 
-  - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
+  - Topics: Kullback-Leibler divergence; expectation propagation; variational infernece.
   - [Notebook](...)
   - [Slides](...)
 
