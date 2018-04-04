@@ -180,8 +180,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 23 - Markov Chain Monte Carlo III, 04/05/2018.
 
   - Topics: Hierarchical Bayes examples; Logistic regression; PyMC tutorial.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_23.ipynb)
+  - Slides: No slides. This is a hands-on section.
 
 + Lecture 24 - Bayesian Model Selection I, 04/10/2018.
 
