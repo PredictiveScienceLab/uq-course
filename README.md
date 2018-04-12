@@ -192,8 +192,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 25 - Bayesian Model Selection II, 04/12/2018.
 
   - Topics: PySMC tutorial.
-  - [Notebook](handouts/handout_24.ipynb)
-  - [Slides](...)
+  - [Notebook](handouts/handout_25.ipynb)
+  - Slides: No slides. This is a hands-on section.
   
   
 + **No lecture on Tuesday 04/17/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
