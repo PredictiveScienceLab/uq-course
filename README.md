@@ -228,10 +228,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 6 - Polynomial Chaos and Stochastic Collocation method](homeworks/hw_06.ipynb), due 03/27/2018.
 
-+ Homework 7 - Inverse Problems/Model Calibration, due ?.
-
-+ Homework 8 - Optimization Under Unceratinty, due ?.
-
++ [Homework 7 - Inverse Problems/Model Calibration and Bayesian model selection](homeworks/hw_07.ipynb), due 04/26/2018.
 
 
 ## Installation of Required Software for Viewing the Notebookes
