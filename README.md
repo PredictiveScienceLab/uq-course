@@ -192,7 +192,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 25 - Bayesian Model Selection II, 04/12/2018.
 
   - Topics: PySMC tutorial.
-  - [Notebook](handouts/handout_25.ipynb)
+  - [Notebook](handouts/handout_24.ipynb)
   - Slides: No slides. This is a hands-on section.
   
   
@@ -200,17 +200,18 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + **No lecture on Thursday 04/19/2018** (The instructor will be at the [SIAM Conference for Uncertainty Quantification 2018](https://www.siam.org/meetings/uq18/)).
 
-+ Lecture 26 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
++ Lecture 26 - Accelerating Bayesian Statistics, 04/24/2018.
+
+  - Topics: Kullback-Leibler divergence; expectation propagation; variational inference.
+  - [Notebook](handouts/handout_26.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jgbgxcedtkoau)
+
++ Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
 
   - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
-  - [Notebook](...)
-  - [Slides](...)
+  - [Notebook](handouts/handout_27.ipynb)
+  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jgbgvdvdjwa73w)
 
-+ Lecture 27 - Accelerating Bayesian Statistics, 04/12/2018.
-
-  - Topics: Kullback-Leibler divergence; expectation propagation; variational infernece.
-  - [Notebook](...)
-  - [Slides](...)
 
 
 ## Homework Notebooks
