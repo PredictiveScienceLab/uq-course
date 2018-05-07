@@ -133,12 +133,14 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Hilbert space of square integrable functions; orthogonal polynomials; constructing orthonormal polynomials in 1D; Hermite, Laguerre, Legendre polynomials; constructing multi-dimensional orthonormal polynomials; solving stochastic dynamical system with polynomial chaos;
   - [Notebook](handouts/handout_16.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jea4oym2rj75h4)
+  - [Video](https://www.youtube.com/watch?v=k3m3Ncbm-o8)
   
 + Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/06/2018.
 
   - Topics: Quadrature rules in 1D; sparse grid collocation; intrusive solution of stochastic dynamical systems; stochastic harmonic oscillator.
   - [Notebook](handouts/handout_17.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jegdbeaultz28j)
+  - [Video](https://www.youtube.com/watch?v=xvLJZb-S2zo)
  
 + Lecture 18 - Uncertainty Propagation: Polynomial Chaos III, 03/08/2018.
   
@@ -146,6 +148,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Notebook](handouts/handout_18.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jegdbhy7uth2ar)
   - [Handwritten Notes](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeotr9mszfb13h)
+  - [Video](https://www.youtube.com/watch?v=FI-U9adhyYw)
 
 + **No lecture on Tuesday 03/12/2018** (spring break).
 
@@ -156,6 +159,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Formulation of inverse problems as optimization problems; method of adjoints revisited; calibration of reaction kinetics problem.
   - [Notebook](handouts/handout_19.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeri5f7ncyj4f)
+  - [Video](https://www.youtube.com/watch?v=5oFT-pTHuZ8)
   
 + **No lecture on Thursday 03/22/2018** (The instructor will be at [2018 NSF Design Circle Workshop: Designing and Developing Global Engineering Systems](http://blogs.oregonstate.edu/designcircle/)).
   
@@ -164,18 +168,21 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: stochastic formulation of inverse problems; the Laplace approximation; solving inverse problems with MCMC; hierarchical Bayes modeling.
   - [Notebook](handouts/handout_20.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jeyg7ilzq8t2sf)
+  - [Video](https://www.youtube.com/watch?v=611ypCZVzuA)
   
 + Lecture 21 - Markov Chain Monte Carlo I, 03/29/2018.
 
   - Topics: Basics of Markov chains; random walks; Metropolis algorithm; Bayesian calibration of the catalysis problem.
   - [Notebook](handouts/handout_21.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jf8smnt2y7t3w5)
+  - [Video](https://www.youtube.com/watch?v=3BhLfHcafEI)
 
 + Lecture 22 - Markov Chain Monte Carlo II, 04/03/2018.
 
   - Topics: Metropolis-Hastings; Metropolis-Adjusted Langevin Dynamics; Gibbs sampling; Hierarchical Bayes.
   - [Notebook](handouts/handout_22.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jfhayrmizm96qo)
+  - [Video](https://www.youtube.com/watch?v=A-M82GeUxTU)
 
 + Lecture 23 - Markov Chain Monte Carlo III, 04/05/2018.
 
@@ -188,6 +195,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Model evidence; Sequential Monte Carlo; Adaptive Importance Sampling.
   - [Notebook](handouts/handout_24.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jfidv8saabj2fi)
+  - [Video](https://www.youtube.com/watch?v=-UDjaxgmMGY)
 
 + Lecture 25 - Bayesian Model Selection II, 04/12/2018.
 
@@ -205,6 +213,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Kullback-Leibler divergence; expectation propagation; variational inference.
   - [Notebook](handouts/handout_26.ipynb)
   - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jgbgxcedtkoau)
+  - [Video](https://www.youtube.com/watch?v=buVaK51Y1Eo)
 
 + Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/26/2018.
 
