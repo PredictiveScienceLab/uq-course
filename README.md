@@ -196,31 +196,42 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 ## Homework Notebooks
 
++ Tentative, [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/28/2020.
 
-+ Tentative, [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/23/2018.
++ Tentative, [Homework 2 - Choosing Prior Probabilities](homeworks/hw_02.ipynb), due 02/04/2020.
 
-+ Tentative, [Homework 2 - Choosing Prior Probabilities](homeworks/hw_02.ipynb), due 01/30/2018.
++ Tentative, [Homework 3 - Bayesian Linear Regression](homeworks/hw_03.ipynb), due 02/13/2020.
 
-+ Tentative, [Homework 3 - Bayesian Linear Regression](homeworks/hw_03.ipynb), due 02/15/2018.
++ Tentative, [Homework 4 - Gaussian process regression and KL expansion](homeworks/hw_04.ipynb): due 02/25/2020.
 
-+ Tentative, [Homework 4 - Gaussian process regression and KL expansion](homeworks/hw_04.ipynb): due 03/01/2018.
++ Tentative, [Homework 5 - Propagating uncertainty using Monte Carlo Latin hypercube sampling](homeworks/hw_05.ipynb): due 03/05/2020.
 
-+ Tentative, [Homework 5 - Propagating uncertainty using Monte Carlo Latin hypercube sampling](homeworks/hw_05.ipynb): due 03/09/2018.
++ Tentative, [Homework 6 - Polynomial Chaos and Stochastic Collocation method](homeworks/hw_06.ipynb), due 03/24/2020.
 
-+ Tentative, [Homework 6 - Polynomial Chaos and Stochastic Collocation method](homeworks/hw_06.ipynb), due 03/27/2018.
++ Tentative, [Homework 7 - Inverse Problems/Model Calibration and Bayesian model selection](homeworks/hw_07.ipynb), due 03/31/2020.
 
-+ Tentative, [Homework 7 - Inverse Problems/Model Calibration and Bayesian model selection](homeworks/hw_07.ipynb), due 04/26/2018.
++ Tentative, HW 8 - TBD, due 04/16/2020.
 
++ Tentative, HW 9 - TBD, due 04/30/2020.
 
-## Installation of Required Software for Viewing the Notebooks
+## Running the notebooks on Nanohub
+
+**TODO: Rohit to update this. Step by step guide.
+Please make sure that things are not duplicated. Remove when done.**
+
+## Running the notebooks on your personal computer
 
 Find and download the right version of
-[Anaconda for Python 2.7](https://www.continuum.io/downloads) from Continuum Analytics.
+[Anaconda for Python 3.7](https://www.anaconda.com/distribution) from Continuum Analytics.
 This package contains most of the software we are going to need.
+**Note:** You do need Python 3 and note Python 2. The notebooks will not work
+with Python 2.
 
 ### OS Specific Instructions
 
 #### Microsoft Windows
+
+**TODO: Alana is checking this. Remove when done.**
 
 + We need C, C++, Fortran compilers, as well as the Python sources.
 Start a command line (look for ``cmd``) and type:
@@ -231,6 +242,8 @@ conda install mingw libpython
 make sure you select that you want to use it from the Windows command prompt.
 
 #### Apple OS X
+
+**TODO: Rohit is checking this. Remove when done.**
 
 + Download and install [Xcode](https://developer.apple.com/xcode/download/)
 + Agree to the license of Xcode by opening a terminal and typing:
@@ -247,12 +260,14 @@ Alternatively, you may use the [MacPorts](https://www.macports.org/).
 
 #### Linux
 
-Nothing special is required.
+If you are using Linux, I am sure that you can figure it out on your own.
 
 ### Installation of Required Python Packages
 
+**TODO: Rohit check this. Let's wait until we have all notebooks. Remove when done.**
+
 Independently of the operating system, use the command line to install the following Python packages:
-+ [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/), for beatiful graphics:
++ [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/), for beautiful graphics:
 ```
 conda install seaborn
 ```
@@ -277,7 +292,10 @@ pip install py-design
 pip install py-orthpol
 ```
 
-## Running the notebooks
+### Running the notebooks
+
+**TODO: Rohit, make sure that we have no duplicates with above descriptions.
+Remove when done.**
 
 + Open the command line.
 + `cd` to your favorite folder.
@@ -295,7 +313,7 @@ cd uq-course
 jupyter notebook
 ```
 + Use the browser to navigate the course, experiment with code etc.
-+ If the course contented is updated, type the following command (while being inside `uq-course`) to get the latest version:
++ If the course content has been updated, type the following command (while being inside `uq-course`) to get the latest version:
 ```
 git pull origin master
 ```
