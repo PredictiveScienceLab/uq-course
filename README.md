@@ -231,8 +231,6 @@ with Python 2.
 
 #### Microsoft Windows
 
-**TODO: Alana is checking this. Remove when done.**
-
 + We need C, C++, Fortran compilers, as well as the Python sources.
 Start the command line by typing opening "Anaconda Prompt" from the
 start menu. In the command line type:
