@@ -231,15 +231,16 @@ with Python 2.
 
 #### Microsoft Windows
 
-**TODO: Alana is checking this. Remove when done.**
-
 + We need C, C++, Fortran compilers, as well as the Python sources.
-Start a command line (look for ``cmd``) and type:
+Start the command line by typing opening "Anaconda Prompt" from the
+start menu. In the command line type:
 ```
+conda config --append channels https://repo.continuum.io/pkgs/free
 conda install mingw libpython
 ```
 + Finally, you need [git](https://git-scm.com/downloads). As you install it,
-make sure you select that you want to use it from the Windows command prompt.
+make sure to indicate that you want to use "Git from the command line and 
+also from 3rd party software".
 
 #### Apple OS X
 
