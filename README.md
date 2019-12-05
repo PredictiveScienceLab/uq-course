@@ -232,7 +232,7 @@ with Python 2.
 #### Microsoft Windows
 
 + We need C, C++, Fortran compilers, as well as the Python sources.
-Start the command line by typing opening "Anaconda Prompt" from the
+Start the command line by opening "Anaconda Prompt" from the
 start menu. In the command line type:
 ```
 conda config --append channels https://repo.continuum.io/pkgs/free
