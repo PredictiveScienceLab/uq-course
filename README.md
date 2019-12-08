@@ -244,7 +244,7 @@ also from 3rd party software".
 
 #### Apple OS X
 
-+ Download and install [Xcode](https://developer.apple.com/xcode/download/)
++ Download and install the latest version of [Xcode](https://developer.apple.com/xcode/download/).
 
 + Install your favorite version of the GNU compiler suite.
 You can do this with [Homebrew](http://brew.sh/) (after you install it of course),
@@ -259,8 +259,6 @@ Alternatively, you may use the [MacPorts](https://www.macports.org/).
 If you are using Linux, I am sure that you can figure it out on your own.
 
 ### Installation of Required Python Packages
-
-**TODO: Rohit check this. Let's wait until we have all notebooks. Remove when done.**
 
 Independently of the operating system, use the command line to install the following Python packages:
 + [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/), for beautiful graphics:
@@ -289,9 +287,6 @@ pip install py-orthpol
 ```
 
 ### Running the notebooks
-
-**TODO: Rohit, make sure that we have no duplicates with above descriptions.
-Remove when done.**
 
 + Open the command line.
 + `cd` to your favorite folder.
