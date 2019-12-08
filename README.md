@@ -244,13 +244,8 @@ also from 3rd party software".
 
 #### Apple OS X
 
-**TODO: Rohit is checking this. Remove when done.**
-
 + Download and install [Xcode](https://developer.apple.com/xcode/download/)
-+ Agree to the license of Xcode by opening a terminal and typing:
-```
-sudo xcrun cc
-```
+
 + Install your favorite version of the GNU compiler suite.
 You can do this with [Homebrew](http://brew.sh/) (after you install it of course),
 by typing in the terminal:
