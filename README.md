@@ -23,15 +23,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 1 - Introduction, 01/14/2020.
 
-  - Tentative
-  - Topics: Course logistics.
-  - [Notebook](handouts/handout_01.ipynb)
+  - Topics: Course logistics and introduction.
+  - [Notebook](lectures/lecture_01.ipynb)
 
-+ Lecture 2 - Quantifying Uncertainties in Physical Models, 01/16/2020.
++ Lecture 2 - Introduction to Predictive Modeling, 01/16/2020.
 
-  - Tentative
-  - Topics: Scope of UQ; Aleatoric vs epistemic uncertainties; Uncertainty propagation problem; Hands-on example.
-  - [Notebook](handouts/handout_02.ipynb)
+  - Topics: Predictive modeling, structural causal models and their graphical
+      representation, aleatory vs epistemic uncertainties,
+      the uncertainty propagation problem, the model calibration problem.
+  - [Notebook](lectures/lecture_02.ipynb)
 
 + Lecture 3 - Introduction to Probability Theory (Part I), 01/21/2020.
 
@@ -239,7 +239,7 @@ conda config --append channels https://repo.continuum.io/pkgs/free
 conda install mingw libpython
 ```
 + Finally, you need [git](https://git-scm.com/downloads). As you install it,
-make sure to indicate that you want to use "Git from the command line and 
+make sure to indicate that you want to use "Git from the command line and
 also from 3rd party software".
 
 #### Apple OS X
