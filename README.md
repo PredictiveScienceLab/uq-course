@@ -24,14 +24,14 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 1 - Introduction, 01/14/2020.
 
   - Topics: Course logistics and introduction.
-  - [Notebook](lectures/lecture_01.ipynb)
+  - [Lecture notebook](lectures/lecture_01.ipynb)
 
 + Lecture 2 - Introduction to Predictive Modeling, 01/16/2020.
 
   - Topics: Predictive modeling, structural causal models and their graphical
       representation, aleatory vs epistemic uncertainties,
       the uncertainty propagation problem, the model calibration problem.
-  - [Notebook](lectures/lecture_02.ipynb)
+  - [Lecture notebook](lectures/lecture_02.ipynb)
 
 + Lecture 3 - Introduction to Probability Theory (Part I), 01/21/2020.
 
