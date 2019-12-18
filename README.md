@@ -35,10 +35,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 3 - Introduction to Probability Theory (Part I), 01/21/2020.
 
-  - Tentative
-  - Topics: Dynamics of coin toss; Interpretation of probability; Basic rules of probability; Practice examples; Probability as an extension of Aristotelian logic.
-  - [Notebook](handouts/handout_03.ipynb)
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jchtmcf4bcf5n3)
+  - Topics: Interpretation of probability as a representation of our state of knowledge; Basic rules of probability; Practice examples.
+  - [Notebook](lectures/lecture_03.ipynb)
 
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/23/2018.
 
