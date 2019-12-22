@@ -40,9 +40,8 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/23/2018.
 
-  - Tentative
-  - Topics: Independence; Conditional independence; Graphical representation of probability models; Causality; Discrete random variables; Continuous random variables; Expectations.
-  - [Slides](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcc0r1i59hr3nc)
+  - Topics: Discrete random variables; Probability mass function; Cumulative distribution function; Expectation; Variance; Covariance; Joint probability mass function; Marginals; Independence; Conditional probability; Bernoulli; Binomial; Categorical; Poisson.
+  - [Lecture notebook](lectures/lecture_04.ipynb)
 
 + Lecture 5 - Common Random Variables, 01/28/2020.
 
