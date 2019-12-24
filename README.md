@@ -43,11 +43,10 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Discrete random variables; Probability mass function; Cumulative distribution function; Expectation; Variance; Covariance; Joint probability mass function; Marginals; Independence; Conditional probability; Bernoulli; Binomial; Categorical; Poisson.
   - [Lecture notebook](lectures/lecture_04.ipynb)
 
-+ Lecture 5 - Common Random Variables, 01/28/2020.
++ Lecture 5 - Introduction to Probability Theory (Part III), 01/28/2020.
 
-  - Tentative
-  - Topics: Uniform distribution; Generating uniform random numbers; Bernoulli distribution and how to sample it; Binomial distribution; Poisson distribution.
-  - [Notebook](handouts/handout_05.ipynb)
+  - Topics: Continuous random variables; Uniform distribution; Gaussian distribution; Analytical Bayesian inference examples; Predictive intervals; Decision making; 
+  - [Notebook](lectures/lecture_05.ipynb)
 
 + Lecture 6 - Turning Prior Information to Probability Statements, 01/30/2020.
 
