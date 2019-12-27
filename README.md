@@ -35,41 +35,40 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 3 - Introduction to Probability Theory (Part I), 01/21/2020.
 
-  - Topics: Interpretation of probability as a representation of our state of knowledge; Basic rules of probability; Practice examples.
+  - Topics: Interpretation of probability as a representation of our state of knowledge, Basic rules of probability, Practice examples.
   - [Lecture notebook](lectures/lecture_03.ipynb)
 
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/23/2018.
 
-  - Topics: Discrete random variables; Probability mass function; Cumulative distribution function; Expectation; Variance; Covariance; Joint probability mass function; Marginals; Independence; Conditional probability; Bernoulli; Binomial; Categorical; Poisson.
+  - Topics: Discrete random variables, Probability mass function, Cumulative distribution function, Expectation, Variance, Covariance, Joint probability mass function, Marginals, Independence, Conditional probability, Bernoulli, Binomial, Categorical, Poisson.
   - [Lecture notebook](lectures/lecture_04.ipynb)
 
 + Lecture 5 - Introduction to Probability Theory (Part III), 01/28/2020.
 
-  - Topics: Continuous random variables; Uniform distribution; Gaussian distribution; Analytical Bayesian inference examples; Predictive intervals; Decision making; 
-  - [Notebook](lectures/lecture_05.ipynb)
+  - Topics: Continuous random variables, Uniform distribution, Gaussian distribution, Analytical Bayesian inference examples, Predictive intervals, Decision making, 
+  - [Lecture notebook](lectures/lecture_05.ipynb)
 
-+ Lecture 6 - Turning Prior Information to Probability Statements, 01/30/2020.
++ Lecture 6 - Introduction to Probability Theory (Part IV), 01/30/2020.
 
-  - Tentative
-  - Topics: Principle of insufficient reason, maximum entropy principle, statistical mechanics.
-  - [Notebook](handouts/handout_06.ipynb)
+  - Topics: Pseudo-random number generators, sampling the uniform distribution, the empirical cumulative distribution function, the Kolmogorov-Smirnov test, sampling the Bernoulli distribution, sampling any discrete distribution, limiting behavior of the binomial distribution, the central limit theorem and the ubiquitousness of the Gaussian distribution, sampling continuous distributions using inverse sampling and rejection sampling.
+  - [Lecture notebook](lectures/lecture_06.ipynb)
 
 + Lecture 7 - Generalized Linear Models (Part I), 02/04/2020.
 
   - Tentative
-  - Topics: Supervised learning; regression; generalized linear models; least squares; maximum likelihood.
+  - Topics: Supervised learning, regression, generalized linear models, least squares, maximum likelihood.
   - [Notebook](handouts/handout_07.ipynb)
 
 + Lecture 8 - Generalized Linear Models (Part II), 02/06/2020.
 
   - Tentative
-  - Topics: Bayesian linear regression; maximum a posteriori estimates.
+  - Topics: Bayesian linear regression, maximum a posteriori estimates.
   - [Notebook](handouts/handout_08.ipynb)
 
 + Lecture 9 - Generalized Linear Models (Part III), 02/11/2020.
 
   - Tentative
-  - Topics: The evidence approximation; automatic relevance determination.
+  - Topics: The evidence approximation, automatic relevance determination.
   - [Notebook](handouts/handout_08.ipynb) (*it is the same as lecture's 8 handout*)
 
 + Lecture 10 - Priors on Function Spaces, 02/13/2020.
@@ -87,43 +86,43 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 12 - Reducing the Dimensionality of Random Fields, 02/20/2020.
 
   - Tentative
-  - Topics: Karhunen-Lo\`eve expansion (KLE); Nystr\"om approximation to the KLE.
+  - Topics: Karhunen-Lo\`eve expansion (KLE), Nystr\"om approximation to the KLE.
   - [Notebook](handouts/handout_12.ipynb)
 
 + Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/25/2020.
 
   - Tentative
-  - Topics: Monte Carlo; high-dimensional integration; error estimates; convergence.
+  - Topics: Monte Carlo, high-dimensional integration, error estimates, convergence.
   - [Notebook](handouts/handout_13.ipynb)
 
 + Lecture 14 - Uncertainty Propagation: Sampling Methods II, 02/27/2020.
 
   - Tentative
-  - Topics: Importance sampling; latin hyper-cube designs; multi-level Monte Carlo.
+  - Topics: Importance sampling, latin hyper-cube designs, multi-level Monte Carlo.
   - [Notebook](handouts/handout_14.ipynb)
 
 + Lecture 15 - Uncertainty Propagation: Perturbation Methods, 03/03/2020.
 
   - Tentative
-  - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
+  - Topics: Taylor series expansions, The Laplace Approximation, Low-order perturbation methods for dynamical systems, Method of adjoints.
   - [Notebook](handouts/handout_15.ipynb)
 
 + Lecture 16 - Uncertainty Propagation: Polynomial Chaos I, 03/05/2020.
 
   - Tentative
-  - Topics: Hilbert space of square integrable functions; orthogonal polynomials; constructing orthonormal polynomials in 1D; Hermite, Laguerre, Legendre polynomials; constructing multi-dimensional orthonormal polynomials; solving stochastic dynamical system with polynomial chaos;
+  - Topics: Hilbert space of square integrable functions, orthogonal polynomials, constructing orthonormal polynomials in 1D, Hermite, Laguerre, Legendre polynomials, constructing multi-dimensional orthonormal polynomials, solving stochastic dynamical system with polynomial chaos,
   - [Notebook](handouts/handout_16.ipynb)
 
 + Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/10/2020.
 
   - Tentative
-  - Topics: Quadrature rules in 1D; sparse grid collocation; intrusive solution of stochastic dynamical systems; stochastic harmonic oscillator.
+  - Topics: Quadrature rules in 1D, sparse grid collocation, intrusive solution of stochastic dynamical systems, stochastic harmonic oscillator.
   - [Notebook](handouts/handout_17.ipynb)
 
 + Lecture 18 - Uncertainty Propagation: Polynomial Chaos III, 03/12/2020.
 
   - Tentative
-  - Topics: Intrusive polynomial chaos for stochastic dynamical systems; stochastic exponential decay; stochastic harmonic oscillator; Non-intrusive polynomial chaos.
+  - Topics: Intrusive polynomial chaos for stochastic dynamical systems, stochastic exponential decay, stochastic harmonic oscillator, Non-intrusive polynomial chaos.
   - [Notebook](handouts/handout_18.ipynb)
 
 + **No lecture on Tuesday 03/17/2020** (spring break).
@@ -133,37 +132,37 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 19 Inverse Problems/Model Calibration: Classic Approaches, 03/24/2020.
 
   - Tentative
-  - Topics: Formulation of inverse problems as optimization problems; method of adjoints revisited; calibration of reaction kinetics problem.
+  - Topics: Formulation of inverse problems as optimization problems, method of adjoints revisited, calibration of reaction kinetics problem.
   - [Notebook](handouts/handout_19.ipynb)
 
 + Lecture 20 - Inverse Problems/Model Calibration: Bayesian Approaches, 03/26/2020.
 
   - Tentative
-  - Topics: stochastic formulation of inverse problems; the Laplace approximation; solving inverse problems with MCMC; hierarchical Bayes modeling.
+  - Topics: stochastic formulation of inverse problems, the Laplace approximation, solving inverse problems with MCMC, hierarchical Bayes modeling.
   - [Notebook](handouts/handout_20.ipynb)
 
 + Lecture 21 - Markov Chain Monte Carlo I, 03/31/2020.
 
   - Tentative
-  - Topics: Basics of Markov chains; random walks; Metropolis algorithm; Bayesian calibration of the catalysis problem.
+  - Topics: Basics of Markov chains, random walks, Metropolis algorithm, Bayesian calibration of the catalysis problem.
   - [Notebook](handouts/handout_21.ipynb)
 
 + Lecture 22 - Markov Chain Monte Carlo II, 04/02/2020.
 
   - Tentative
-  - Topics: Metropolis-Hastings; Metropolis-Adjusted Langevin Dynamics; Gibbs sampling; Hierarchical Bayes.
+  - Topics: Metropolis-Hastings, Metropolis-Adjusted Langevin Dynamics, Gibbs sampling, Hierarchical Bayes.
   - [Notebook](handouts/handout_22.ipynb)
 
 + Lecture 23 - Markov Chain Monte Carlo III, 04/07/2020.
 
   - Tentative
-  - Topics: Hierarchical Bayes examples; Logistic regression; PyMC tutorial.
+  - Topics: Hierarchical Bayes examples, Logistic regression, PyMC tutorial.
   - [Notebook](handouts/handout_23.ipynb)
 
 + Lecture 24 - Bayesian Model Selection I, 04/09/2020.
 
   - Tentative
-  - Topics: Model evidence; Sequential Monte Carlo; Adaptive Importance Sampling.
+  - Topics: Model evidence, Sequential Monte Carlo, Adaptive Importance Sampling.
   - [Notebook](handouts/handout_24.ipynb)
 
 + Lecture 25 - Bayesian Model Selection II, 04/14/2020.
@@ -175,13 +174,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Lecture 26 - Accelerating Bayesian Statistics, 04/16/2020.
 
   - Tentative
-  - Topics: Kullback-Leibler divergence; expectation propagation; variational inference.
+  - Topics: Kullback-Leibler divergence, expectation propagation, variational inference.
   - [Notebook](handouts/handout_26.ipynb)
 
 + Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/21/2020.
 
   - Tentative
-  - Topics: Bayesian global optimization; expected improvement; probability of improvement; knowledge gradient; expected improvement in dominated hypervolume.
+  - Topics: Bayesian global optimization, expected improvement, probability of improvement, knowledge gradient, expected improvement in dominated hypervolume.
   - [Notebook](handouts/handout_27.ipynb)
 
 + Lecture 28 - TBD, 04/23/2020
