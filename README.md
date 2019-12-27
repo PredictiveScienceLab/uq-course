@@ -35,17 +35,17 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 3 - Introduction to Probability Theory (Part I), 01/21/2020.
 
-  - Topics: Interpretation of probability as a representation of our state of knowledge, Basic rules of probability, Practice examples.
+  - Topics: Interpretation of probability as a representation of our state of knowledge, basic rules of probability, practice examples.
   - [Lecture notebook](lectures/lecture_03.ipynb)
 
 + Lecture 4 - Introduction to Probability Theory (Part II), 01/23/2018.
 
-  - Topics: Discrete random variables, Probability mass function, Cumulative distribution function, Expectation, Variance, Covariance, Joint probability mass function, Marginals, Independence, Conditional probability, Bernoulli, Binomial, Categorical, Poisson.
+  - Topics: Discrete random variables, probability mass function, cumulative distribution function, expectation, variance, covariance, joint probability mass function, marginals, independence, conditional probability, the Bernoulli distribution, the Binomial distribution, the categorical distribution, the Poisson distribution.
   - [Lecture notebook](lectures/lecture_04.ipynb)
 
 + Lecture 5 - Introduction to Probability Theory (Part III), 01/28/2020.
 
-  - Topics: Continuous random variables, Uniform distribution, Gaussian distribution, Analytical Bayesian inference examples, Predictive intervals, Decision making, 
+  - Topics: Continuous random variables, the uniform distribution, the Gaussian distribution, analytical Bayesian inference examples, predictive intervals, decision making, 
   - [Lecture notebook](lectures/lecture_05.ipynb)
 
 + Lecture 6 - Introduction to Probability Theory (Part IV), 01/30/2020.
