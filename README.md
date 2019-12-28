@@ -3,7 +3,7 @@
 This version of the course is being taught at Purdue University during Spring 2020.
 The code for the course is ME 59700 and MA 59800.
 The instructor is Prof. [Ilias Bilionis](https://www.predictivesciencelab.org/authors/ebilionis/).
-The class meets every Tuesday and Thursday 12:00pm-1:15pm at ME 3006.
+The class meets every Tuesday and Thursday 12:00pm-1:15pm at WALC 2127.
 
 The goal of this course is to introduce the fundamentals of uncertainty quantification to advanced undergraduates or graduate engineering and science students with research interests in the field of predictive modeling. Upon completion of this course the students should be able to:
 
@@ -45,7 +45,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 5 - Introduction to Probability Theory (Part III), 01/28/2020.
 
-  - Topics: Continuous random variables, the uniform distribution, the Gaussian distribution, analytical Bayesian inference examples, predictive intervals, decision making, 
+  - Topics: Continuous random variables, the uniform distribution, the Gaussian distribution, analytical Bayesian inference examples, predictive intervals, decision making,
   - [Lecture notebook](lectures/lecture_05.ipynb)
 
 + Lecture 6 - Introduction to Probability Theory (Part IV), 01/30/2020.
@@ -53,161 +53,149 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Pseudo-random number generators, sampling the uniform distribution, the empirical cumulative distribution function, the Kolmogorov-Smirnov test, sampling the Bernoulli distribution, sampling any discrete distribution, limiting behavior of the binomial distribution, the central limit theorem and the ubiquitousness of the Gaussian distribution, sampling continuous distributions using inverse sampling and rejection sampling.
   - [Lecture notebook](lectures/lecture_06.ipynb)
 
-+ Lecture 7 - Generalized Linear Models (Part I), 02/04/2020.
++ Lecture 7 - Uncertainty Propagation: Introduction to Monte Carlo Sampling, 02/04/2020.
 
-  - Tentative
-  - Topics: Supervised learning, regression, generalized linear models, least squares, maximum likelihood.
-  - [Notebook](handouts/handout_07.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_07.ipynb)
 
-+ Lecture 8 - Generalized Linear Models (Part II), 02/06/2020.
++ Lecture 8 - Uncertainty Propagation: Advanced Monte Carlo Sampling, 02/06/2020.
 
-  - Tentative
-  - Topics: Bayesian linear regression, maximum a posteriori estimates.
-  - [Notebook](handouts/handout_08.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_08.ipynb)
 
-+ Lecture 9 - Generalized Linear Models (Part III), 02/11/2020.
++ Lecture 9 - Basics of Curve Fitting: The Generalized Linear Model, 02/11/2020.
 
-  - Tentative
-  - Topics: The evidence approximation, automatic relevance determination.
-  - [Notebook](handouts/handout_08.ipynb) (*it is the same as lecture's 8 handout*)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_09.ipynb)
 
-+ Lecture 10 - Priors on Function Spaces, 02/13/2020.
++ Lecture 10 - Basics of Curve Fitting: Bayesian Linear Regression, 02/13/2020.
 
-  - Tentative
-  - Topics: Random fields, Gaussian random fields (Gaussian processes).
-  - [Notebook](handouts/handout_10.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_10.ipynb)
 
-+ Lecture 11 - Conditioning a Random Field on Observations, 02/18/2020.
++ Lecture 11 - Advanced Curve Fitting: Gaussian Process Regression (Part I), 02/18/2020.
 
-  - Tentative
   - Topics: Gaussian process regression
-  - [Notebook](handouts/handout_11.ipynb)
+  - [Lecture notebook](lectures/lecture_11.ipynb)
 
-+ Lecture 12 - Reducing the Dimensionality of Random Fields, 02/20/2020.
++ Lecture 12 - Advanced Curve Fitting: Gaussian Process Regression (Part II), 02/20/2020.
 
-  - Tentative
-  - Topics: Karhunen-Lo\`eve expansion (KLE), Nystr\"om approximation to the KLE.
-  - [Notebook](handouts/handout_12.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_12.ipynb)
 
-+ Lecture 13 - Uncertainty Propagation: Sampling Methods I, 02/25/2020.
++ Lecture 13 - Sequential Information Acquisition, 02/25/2020.
 
-  - Tentative
-  - Topics: Monte Carlo, high-dimensional integration, error estimates, convergence.
-  - [Notebook](handouts/handout_13.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_13.ipynb)
 
-+ Lecture 14 - Uncertainty Propagation: Sampling Methods II, 02/27/2020.
++ Lecture 14 - Dimensionality Reduction: Principle Component Analysis, 02/27/2020.
 
-  - Tentative
-  - Topics: Importance sampling, latin hyper-cube designs, multi-level Monte Carlo.
-  - [Notebook](handouts/handout_14.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Uncertainty Propagation: Perturbation Methods, 03/03/2020.
++ Lecture 15 - Dimensionality Reduction: Karhunen-Loeve Expansion, 03/03/2020.
 
-  - Tentative
-  - Topics: Taylor series expansions, The Laplace Approximation, Low-order perturbation methods for dynamical systems, Method of adjoints.
-  - [Notebook](handouts/handout_15.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_15.ipynb)
 
-+ Lecture 16 - Uncertainty Propagation: Polynomial Chaos I, 03/05/2020.
++ **No lecture on Tuesday 03/05/2020** (DARPA visit).
 
-  - Tentative
-  - Topics: Hilbert space of square integrable functions, orthogonal polynomials, constructing orthonormal polynomials in 1D, Hermite, Laguerre, Legendre polynomials, constructing multi-dimensional orthonormal polynomials, solving stochastic dynamical system with polynomial chaos,
-  - [Notebook](handouts/handout_16.ipynb)
+  - The instructor will be at DARPA for a mandatory final report of a research project.
+  - The TA will have office hours at WALC 2127 to help students out with any problems they may have.
 
-+ Lecture 17 - Uncertainty Propagation: Polynomial Chaos II, 03/10/2020.
++ Lecture 16 - Calibration of physical models, 03/10/2020.
 
-  - Tentative
-  - Topics: Quadrature rules in 1D, sparse grid collocation, intrusive solution of stochastic dynamical systems, stochastic harmonic oscillator.
-  - [Notebook](handouts/handout_17.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_16.ipynb)
 
-+ Lecture 18 - Uncertainty Propagation: Polynomial Chaos III, 03/12/2020.
++ Lecture 17 - State-space models: Kalman filters, 03/12/2020.
 
-  - Tentative
-  - Topics: Intrusive polynomial chaos for stochastic dynamical systems, stochastic exponential decay, stochastic harmonic oscillator, Non-intrusive polynomial chaos.
-  - [Notebook](handouts/handout_18.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_17.ipynb)
 
 + **No lecture on Tuesday 03/17/2020** (spring break).
 
 + **No lecture on Thursday 03/19/2020** (spring break).
 
-+ Lecture 19 Inverse Problems/Model Calibration: Classic Approaches, 03/24/2020.
++ Lecture 18 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
 
-  - Tentative
-  - Topics: Formulation of inverse problems as optimization problems, method of adjoints revisited, calibration of reaction kinetics problem.
-  - [Notebook](handouts/handout_19.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_18.ipynb)
 
-+ Lecture 20 - Inverse Problems/Model Calibration: Bayesian Approaches, 03/26/2020.
++ Lecture 19 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 03/26/2020.
 
-  - Tentative
-  - Topics: stochastic formulation of inverse problems, the Laplace approximation, solving inverse problems with MCMC, hierarchical Bayes modeling.
-  - [Notebook](handouts/handout_20.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_19.ipynb)
 
-+ Lecture 21 - Markov Chain Monte Carlo I, 03/31/2020.
++ Lecture 20 - Sampling from Posteriors: Gibbs Sampling, 03/31/2020.
 
-  - Tentative
-  - Topics: Basics of Markov chains, random walks, Metropolis algorithm, Bayesian calibration of the catalysis problem.
-  - [Notebook](handouts/handout_21.ipynb)
+  - Topics: TBD
+  - [Lecture notebook](lectures/lecture_20.ipynb)
 
-+ Lecture 22 - Markov Chain Monte Carlo II, 04/02/2020.
++ Lecture 21 - Sampling from Posteriors: Sequential Monte Carlo, 04/02/2020.
 
-  - Tentative
-  - Topics: Metropolis-Hastings, Metropolis-Adjusted Langevin Dynamics, Gibbs sampling, Hierarchical Bayes.
-  - [Notebook](handouts/handout_22.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_21.ipynb)
 
-+ Lecture 23 - Markov Chain Monte Carlo III, 04/07/2020.
++ Lecture 22 - Bayesian Model Selection, 04/07/2020.
 
-  - Tentative
-  - Topics: Hierarchical Bayes examples, Logistic regression, PyMC tutorial.
-  - [Notebook](handouts/handout_23.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_22.ipynb)
 
-+ Lecture 24 - Bayesian Model Selection I, 04/09/2020.
++ Lecture 23 - Estimating Posteriors: Variational Inference, 04/09/2020.
 
-  - Tentative
-  - Topics: Model evidence, Sequential Monte Carlo, Adaptive Importance Sampling.
-  - [Notebook](handouts/handout_24.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_23.ipynb)
 
-+ Lecture 25 - Bayesian Model Selection II, 04/14/2020.
++ Lecture 24 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/14/2020.
 
-  - Tentative
-  - Topics: PySMC tutorial.
-  - [Notebook](handouts/handout_24.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_24.ipynb)
 
-+ Lecture 26 - Accelerating Bayesian Statistics, 04/16/2020.
++ Lecture 25 - Bayesian Model Selection with Variational Inference, 04/16/2020.
 
-  - Tentative
-  - Topics: Kullback-Leibler divergence, expectation propagation, variational inference.
-  - [Notebook](handouts/handout_26.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Lecture 27 - Bayesian Algorithms for Solving Stochastic Optimization Problems with Expensive Information Sources, 04/21/2020.
++ Lecture 26 - Deep Neural Networks (Part I), 04/21/2020.
 
-  - Tentative
-  - Topics: Bayesian global optimization, expected improvement, probability of improvement, knowledge gradient, expected improvement in dominated hypervolume.
-  - [Notebook](handouts/handout_27.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_26.ipynb)
 
-+ Lecture 28 - TBD, 04/23/2020
++ Lecture 27 - Deep Neural Networks (Part II), 04/23/2020.
++
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_27.ipynb)
 
-+ Lecture 29 - TBD, 04/28/2020
++ Lecture 28 - Deep Neural Networks (Part III), 04/28/2020
++
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_28.ipynb)
 
-+ Lecture 30 - TBD, 04/30/2020
++ Lecture 29 - Deep Neural Networks (Part IV), 04/30/2020
+
+- Topics: TBD.
+- [Lecture notebook](lectures/lecture_29.ipynb)
 
 ## Homework Notebooks
 
-+ Tentative, [Homework 1 - Probability Theory Basics](https://piazza.com/class_profile/get_resource/jbozz0zxpftby/jcgek4cict75kr), due 01/28/2020.
++ [Homework 1 (Lectures 1-6)](homeworks/hw_01.ipynb), due 01/30/2020.
 
-+ Tentative, [Homework 2 - Choosing Prior Probabilities](homeworks/hw_02.ipynb), due 02/04/2020.
++ Tentative, [Homework 2 - (Lectures 7-8)](homeworks/hw_02.ipynb), due 02/11/2020.
 
-+ Tentative, [Homework 3 - Bayesian Linear Regression](homeworks/hw_03.ipynb), due 02/13/2020.
++ Tentative, [Homework 3 - (Lectures 9-10)](homeworks/hw_03.ipynb), due 02/18/2020.
 
-+ Tentative, [Homework 4 - Gaussian process regression and KL expansion](homeworks/hw_04.ipynb): due 02/25/2020.
++ Tentative, [Homework 4 - (Lectures 11-13)](homeworks/hw_04.ipynb): due 03/03/2020.
 
-+ Tentative, [Homework 5 - Propagating uncertainty using Monte Carlo Latin hypercube sampling](homeworks/hw_05.ipynb): due 03/05/2020.
++ Tentative, [Homework 5 - (Lectures 14-15)](homeworks/hw_05.ipynb): due 03/10/2020.
 
-+ Tentative, [Homework 6 - Polynomial Chaos and Stochastic Collocation method](homeworks/hw_06.ipynb), due 03/24/2020.
++ Tentative, [Homework 6 - (Lectures 16-17)](homeworks/hw_06.ipynb), due 03/24/2020.
 
-+ Tentative, [Homework 7 - Inverse Problems/Model Calibration and Bayesian model selection](homeworks/hw_07.ipynb), due 03/31/2020.
++ Tentative, [Homework 7 - (Lectures 18-20)](homeworks/hw_07.ipynb), due 04/02/2020.
 
-+ Tentative, HW 8 - TBD, due 04/16/2020.
++ Tentative, [Homework 8 - (Lectures 20-24)](homeworks/hw_08.ipynb), due 04/21/2020.
 
-+ Tentative, HW 9 - TBD, due 04/30/2020.
++ Tentative, [Homework 9 - (Lectures 25-29)](homeworks/hw_08.ipynb), due 05/03/2020.
 
 ## Running the notebooks on Nanohub
 
