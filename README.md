@@ -251,7 +251,7 @@ conda install seaborn
 
 + [PyMC](https://https://github.com/pymc-devs/pymc) for MCMC sampling:
 ```
-conda install pymc
+conda install pymc3
 ```
 
 + [GPy](https://github.com/SheffieldML/GPy) for Gaussian process regression:
@@ -264,9 +264,9 @@ pip install GPy
 pip install py-design
 ```
 
-+ [py-orthpol](https://github.com/PredictiveScienceLab/py-orthpol) for generating orthogonal polynomials with respect to arbitrary probability measures:
++ [fipy](https://www.ctcms.nist.gov/fipy/) for solving partial differential equations using the finite volume method.
 ```
-pip install py-orthpol
+pip install fipy
 ```
 
 ### Running the notebooks
