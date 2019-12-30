@@ -60,7 +60,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 8 - Uncertainty Propagation: Advanced Monte Carlo Sampling, 02/06/2020.
 
-  - Topics: TBD.
+  - Topics: Importance sampling, latin-hyper cube designs, example of uncertainty propagation through partial differential equations.
   - [Lecture notebook](lectures/lecture_08.ipynb)
 
 + Lecture 9 - Basics of Curve Fitting: The Generalized Linear Model, 02/11/2020.
@@ -259,9 +259,9 @@ conda install pymc3
 pip install GPy
 ```
 
-+ [py-design](https://github.com/PredictiveScienceLab/py-design) for generating designs for computer codes:
++ [pydoe](https://pythonhosted.org/pyDOE/randomized.html) for generating experimental designs:
 ```
-pip install py-design
+pip install pydoe
 ```
 
 + [fipy](https://www.ctcms.nist.gov/fipy/) for solving partial differential equations using the finite volume method.
