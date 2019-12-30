@@ -55,7 +55,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 7 - Uncertainty Propagation: Introduction to Monte Carlo Sampling, 02/04/2020.
 
-  - Topics: TBD.
+  - Topics: Curse of dimensionality, estimate multi-dimensional integrals using Monte Carlo, quantification of epistemic uncertainty in Monte Carlo estimates, example of uncertainty propagation through partial differential equations.
   - [Lecture notebook](lectures/lecture_07.ipynb)
 
 + Lecture 8 - Uncertainty Propagation: Advanced Monte Carlo Sampling, 02/06/2020.
