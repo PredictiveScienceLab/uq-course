@@ -70,7 +70,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 10 - Basics of Curve Fitting: Bayesian Linear Regression, 02/13/2020.
 
-  - Topics: Maximum a posteriori estimates, Bayesian linear regression.
+  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
   - [Lecture notebook](lectures/lecture_10.ipynb)
 
 + Lecture 11 - Advanced Curve Fitting: Gaussian Process Regression (Part I), 02/18/2020.
