@@ -163,19 +163,16 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - [Lecture notebook](lectures/lecture_26.ipynb)
 
 + Lecture 27 - Deep Neural Networks (Part II), 04/23/2020.
-+
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_27.ipynb)
 
 + Lecture 28 - Deep Neural Networks (Part III), 04/28/2020
-+
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_28.ipynb)
 
 + Lecture 29 - Deep Neural Networks (Part IV), 04/30/2020
-
-- Topics: TBD.
-- [Lecture notebook](lectures/lecture_29.ipynb)
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_29.ipynb)
 
 ## Homework Notebooks
 
