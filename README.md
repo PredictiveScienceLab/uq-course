@@ -229,14 +229,6 @@ also from 3rd party software".
 
 + Download and install the latest version of [Xcode](https://developer.apple.com/xcode/download/).
 
-+ Install your favorite version of the GNU compiler suite.
-You can do this with [Homebrew](http://brew.sh/) (after you install it of course),
-by typing in the terminal:
-```
-brew install gcc
-```
-Alternatively, you may use the [MacPorts](https://www.macports.org/).
-
 #### Linux
 
 If you are using Linux, I am sure that you can figure it out on your own.
@@ -249,7 +241,7 @@ Independently of the operating system, use the command line to install the follo
 conda install seaborn
 ```
 
-+ [PyMC](https://https://github.com/pymc-devs/pymc) for MCMC sampling:
++ [PyMC3](https://docs.pymc.io/) for MCMC sampling:
 ```
 conda install pymc3
 ```
