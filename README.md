@@ -181,9 +181,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 1 (Lectures 1-5)](homeworks/hw_01.ipynb), due 02/04/2020.
 
-+ Tentative, [Homework 2 - (Lectures 6-8)](homeworks/hw_02.ipynb), due 02/11/2020.
++ [Homework 2 - (Lectures 6-8)](homeworks/hw_02.ipynb), due 02/11/2020.
 
-+ Tentative, [Homework 3 - (Lectures 9-10)](homeworks/hw_03.ipynb), due 02/18/2020.
++ [Homework 3 - (Lectures 9-10)](homeworks/hw_03.ipynb), due 02/18/2020.
 
 + Tentative, [Homework 4 - (Lectures 11-13)](homeworks/hw_04.ipynb): due 03/03/2020.
 
@@ -256,9 +256,14 @@ pip install GPy
 pip install pydoe
 ```
 
-+ [fipy](https://www.ctcms.nist.gov/fipy/) for solving partial differential equations using the finite volume method.
++ [fipy](https://www.ctcms.nist.gov/fipy/) for solving partial differential equations using the finite volume method:
 ```
 pip install fipy
+```
+
++ [scikit-learn](https://scikit-learn.org/stable/) for some standard machine learning algorithms implemented in Python:
+```
+conda install scikit-learn
 ```
 
 ### Running the notebooks
