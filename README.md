@@ -65,7 +65,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 9 - Basics of Curve Fitting: The Generalized Linear Model, 02/11/2020.
 
-  - Topics: TBD.
+  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
   - [Lecture notebook](lectures/lecture_09.ipynb)
 
 + Lecture 10 - Basics of Curve Fitting: Bayesian Linear Regression, 02/13/2020.
