@@ -73,12 +73,12 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
   - [Lecture notebook](lectures/lecture_10.ipynb)
 
-+ Lecture 11 - Advanced Curve Fitting: Gaussian Process Regression (Part I), 02/18/2020.
++ Lecture 11 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/18/2020.
 
-  - Topics: Gaussian process regression
+  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
   - [Lecture notebook](lectures/lecture_11.ipynb)
 
-+ Lecture 12 - Advanced Curve Fitting: Gaussian Process Regression (Part II), 02/20/2020.
++ Lecture 12 - Advanced Curve Fitting: Gaussian Process Regression, 02/20/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_12.ipynb)
