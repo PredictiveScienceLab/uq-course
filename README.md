@@ -263,6 +263,11 @@ pip install fipy
 conda install scikit-learn
 ```
 
++ + [graphviz](https://www.graphviz.org/download/) for visualizing probabilistic graphical models:
+```
+brew install graphviz
+```
+
 ### Running the notebooks
 
 + Open the command line.

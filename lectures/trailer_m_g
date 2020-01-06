@@ -1,0 +1,17 @@
+digraph Trailer {
+	k
+	m
+	y0 [label=<y<sub>0</sub>>]
+	omega [label=<&omega;>]
+	v
+	L
+	X
+	v -> omega
+	L -> omega
+	y0 -> X
+	omega -> X
+	k -> X
+	m -> X
+	Xm [label=<X<sub>m</sub>> style=filled]
+	X -> Xm
+}
