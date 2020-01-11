@@ -257,13 +257,23 @@ pip install pydoe
 ```
 pip install fipy
 ```
+*** Windows Users *** 
+
+You may receive the error
+```
+ModuleNotFoundError: No module named 'future'
+```
+If so, please install future and then install fipy:
+```
+pip install future
+```
 
 + [scikit-learn](https://scikit-learn.org/stable/) for some standard machine learning algorithms implemented in Python:
 ```
 conda install scikit-learn
 ```
 
-+ + [graphviz](https://www.graphviz.org/download/) for visualizing probabilistic graphical models:
++ [graphviz](https://www.graphviz.org/download/) for visualizing probabilistic graphical models:
 ```
 brew install graphviz
 ```
