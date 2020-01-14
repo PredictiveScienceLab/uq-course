@@ -194,10 +194,48 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Tentative, [Homework 9 - (Lectures 25-29)](homeworks/hw_08.ipynb), due 05/03/2020.
 
-## Running the notebooks on Nanohub
 
-**TODO: Rohit to update this. Step by step guide.
-Please make sure that things are not duplicated. Remove when done.**
+## Running the notebooks on Google Colab
+
+Make sure you have a Google account before you start.
+Ok, there are many ways you can do this.
+This is the simplest one:
+
+### Google Colab using directly this GitHub site
+
++ Go to the [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) website and login with your Google account (if you are not already logged in).
+
++ Then hit File->Open Notebook.
+
++ In the pop up window that opens, click on GitHub.
+
++ Write: https://github.com/PredictiveScienceLab/uq-course.git and hit enter.
+
++ Now you can select the notebook you would like to open.
+For example, select "lecture_01.ipynb".
+
++ That's it.
+
+### Google Colab using notebooks on your computer
+
++ First, download this repository to your computer.
+Use this [link](https://github.com/PredictiveScienceLab/uq-course/archive/master.zip).
+Unzip the file and make sure you know where it is.
+
++ Go to the [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb) website and login with your Google account (if you are not already logged in).
+
++ Google Colab can see your Google drive. So you should be able to open any notebook you have on your Google drive. This is one way you can do it.
+Drop the course directory in your Google drive. You can find these by "File->Open Notebook" and hitting the Google Drive tab.
+
++ The other way is to individually upload notebooks.
+On the Google Colab page hit File->Upload Notebook and drop the notebook you would like to open.
+
+### Installing software on Google Colab
+When running on google Colab, you will have to install some software manually **every time you run the notebook**.
+For example, to install the Python module ``GPy``, you need to add a code block:
+```
+!pip install GPy
+```
 
 ## Running the notebooks on your personal computer
 
@@ -257,7 +295,7 @@ pip install pydoe
 ```
 pip install fipy
 ```
-*** Windows Users *** 
+*** Windows Users ***
 
 You may receive the error
 ```
