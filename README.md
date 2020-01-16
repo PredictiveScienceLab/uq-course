@@ -313,7 +313,7 @@ conda install scikit-learn
 
 + [graphviz](https://www.graphviz.org/download/) for visualizing probabilistic graphical models:
 ```
-brew install graphviz
+pip install graphviz
 ```
 
 ### Running the notebooks
