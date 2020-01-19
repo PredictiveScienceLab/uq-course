@@ -63,37 +63,37 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Importance sampling, latin-hyper cube designs, example of uncertainty propagation through partial differential equations.
   - [Lecture notebook](lectures/lecture_08.ipynb)
 
-+ Lecture 9 - Basics of Curve Fitting: The Generalized Linear Model, 02/11/2020.
++ Lecture 9 - Uncertainty Propagation: Perturbation Methods, 02/11/2020.
 
-  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
+  - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
   - [Lecture notebook](lectures/lecture_09.ipynb)
 
-+ Lecture 10 - Basics of Curve Fitting: Bayesian Linear Regression, 02/13/2020.
++ Lecture 10 - Basics of Curve Fitting: The Generalized Linear Model, 02/13/2020.
 
-  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
+  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
   - [Lecture notebook](lectures/lecture_10.ipynb)
 
-+ Lecture 11 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/18/2020.
++ Lecture 11 - Basics of Curve Fitting: Bayesian Linear Regression, 02/18/2020.
 
-  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
+  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
   - [Lecture notebook](lectures/lecture_11.ipynb)
 
-+ Lecture 12 - Advanced Curve Fitting: Gaussian Process Regression, 02/20/2020.
++ Lecture 12 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/20/2020.
 
-  - Topics: TBD.
+  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
   - [Lecture notebook](lectures/lecture_12.ipynb)
 
-+ Lecture 13 - Sequential Information Acquisition, 02/25/2020.
++ Lecture 13 - Advanced Curve Fitting: Gaussian Process Regression, 02/25/2020.
 
-  - Topics: TBD.
+  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
   - [Lecture notebook](lectures/lecture_13.ipynb)
 
-+ Lecture 14 - Dimensionality Reduction: Principle Component Analysis, 02/27/2020.
++ Lecture 14 - Sequential Information Acquisition, 02/27/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Dimensionality Reduction: Karhunen-Loeve Expansion, 03/03/2020.
++ Lecture 15 - Dimensionality Reduction: Principle Component Analysis, 03/03/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_15.ipynb)
