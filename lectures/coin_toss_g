@@ -1,0 +1,9 @@
+digraph coin_toss_g {
+	omega0 [label=<&omega;<sub>0</sub>>]
+	v0 [label=<v<sub>0</sub>>]
+	g [style=filled]
+	X
+	g -> X
+	v0 -> X
+	omega0 -> X
+}
