@@ -88,14 +88,14 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
   - [Lecture notebook](lectures/lecture_13.ipynb)
 
-+ Lecture 14 - Sequential Information Acquisition, 02/27/2020.
++ Lecture 14 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 02/27/2020.
 
-  - Topics: TBD.
+  - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
   - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Dimensionality Reduction: Principle Component Analysis, 03/03/2020.
++ Lecture 15 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/03/2020.
 
-  - Topics: TBD.
+  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
   - [Lecture notebook](lectures/lecture_15.ipynb)
 
 + **No lecture on Tuesday 03/05/2020** (DARPA visit).
@@ -178,9 +178,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 1 (Lectures 1-5)](homeworks/hw_01.ipynb), due 02/04/2020.
 
-+ [Homework 2 - (Lectures 6-8)](homeworks/hw_02.ipynb), due 02/11/2020.
++ [Homework 2 - (Lectures 6-9)](homeworks/hw_02.ipynb), due 02/11/2020.
 
-+ [Homework 3 - (Lectures 9-10)](homeworks/hw_03.ipynb), due 02/18/2020.
++ [Homework 3 - (Lectures 10-11)](homeworks/hw_03.ipynb), due 02/18/2020.
 
 + Tentative, [Homework 4 - (Lectures 11-13)](homeworks/hw_04.ipynb): due 03/03/2020.
 
