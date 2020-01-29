@@ -1,0 +1,9 @@
+digraph coin_toss_bayes_plate {
+	theta [label=<&theta;>]
+	subgraph cluster_0 {
+		Xn [label=<X<sub>n</sub>> style=filled]
+		label="n=1,...,N"
+		labelloc=b
+	}
+	theta -> Xn
+}

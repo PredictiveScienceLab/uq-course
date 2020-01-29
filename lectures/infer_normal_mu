@@ -1,0 +1,15 @@
+digraph infer_normal_mu {
+	g
+	g0 [label=<g<sub>0</sub>> style=filled]
+	s0 [label=<s<sub>0</sub>> style=filled]
+	g0 -> g
+	s0 -> g
+	sigma [label=<&sigma;> style=filled]
+	subgraph cluster_0 {
+		Xn [label=<X<sub>n</sub>> style=filled]
+		label="n=1,...,N"
+		labelloc=b
+	}
+	g -> Xn
+	sigma -> Xn
+}
