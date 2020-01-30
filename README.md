@@ -45,134 +45,134 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 5 - Introduction to Probability Theory (Part III), 01/28/2020.
 
-  - Topics: Continuous random variables, the uniform distribution, the Gaussian distribution, analytical Bayesian inference examples, predictive intervals, decision making,
+  - Topics: Continuous random variables, the uniform distribution, the Gaussian distribution, analytical Bayesian inference examples.
   - [Lecture notebook](lectures/lecture_05.ipynb)
 
 + Lecture 6 - Introduction to Probability Theory (Part IV), 01/30/2020.
 
-  - Topics: Pseudo-random number generators, sampling the uniform distribution, the empirical cumulative distribution function, the Kolmogorov-Smirnov test, sampling the Bernoulli distribution, sampling any discrete distribution, limiting behavior of the binomial distribution, the central limit theorem and the ubiquitousness of the Gaussian distribution, sampling continuous distributions using inverse sampling and rejection sampling.
+  - Topics: Quantiles, credible intervals, Bayesian decision making, analytical Bayesian inference examples.
   - [Lecture notebook](lectures/lecture_06.ipynb)
 
-+ Lecture 7 - Uncertainty Propagation: Introduction to Monte Carlo Sampling, 02/04/2020.
++ Lecture 7 - Introduction to Probability Theory (Part V), 02/04/2020.
 
-  - Topics: Curse of dimensionality, estimate multi-dimensional integrals using Monte Carlo, quantification of epistemic uncertainty in Monte Carlo estimates, example of uncertainty propagation through partial differential equations.
+  - Topics: Pseudo-random number generators, sampling the uniform distribution, the empirical cumulative distribution function, the Kolmogorov-Smirnov test, sampling the Bernoulli distribution, sampling any discrete distribution, limiting behavior of the binomial distribution, the central limit theorem and the ubiquitousness of the Gaussian distribution, sampling continuous distributions using inverse sampling and rejection sampling.
   - [Lecture notebook](lectures/lecture_07.ipynb)
 
-+ Lecture 8 - Uncertainty Propagation: Advanced Monte Carlo Sampling, 02/06/2020.
++ Lecture 8 - Uncertainty Propagation: Introduction to Monte Carlo Sampling, 02/06/2020.
 
-  - Topics: Importance sampling, latin-hyper cube designs, example of uncertainty propagation through partial differential equations.
+  - Topics: Curse of dimensionality, estimate multi-dimensional integrals using Monte Carlo, quantification of epistemic uncertainty in Monte Carlo estimates, example of uncertainty propagation through partial differential equations.
   - [Lecture notebook](lectures/lecture_08.ipynb)
 
-+ Lecture 9 - Uncertainty Propagation: Perturbation Methods, 02/11/2020.
++ Lecture 9 - Uncertainty Propagation: Advanced Monte Carlo Sampling, 02/11/2020.
 
-  - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
+  - Topics: Importance sampling, latin-hyper cube designs, example of uncertainty propagation through partial differential equations.
   - [Lecture notebook](lectures/lecture_09.ipynb)
 
-+ Lecture 10 - Basics of Curve Fitting: The Generalized Linear Model, 02/13/2020.
++ Lecture 10 - Uncertainty Propagation: Perturbation Methods, 02/13/2020.
 
-  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
+  - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
   - [Lecture notebook](lectures/lecture_10.ipynb)
 
-+ Lecture 11 - Basics of Curve Fitting: Bayesian Linear Regression, 02/18/2020.
++ Lecture 11 - Basics of Curve Fitting: The Generalized Linear Model, 02/18/2020.
 
-  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
+  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
   - [Lecture notebook](lectures/lecture_11.ipynb)
 
-+ Lecture 12 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/20/2020.
++ Lecture 12 - Basics of Curve Fitting: Bayesian Linear Regression, 02/20/2020.
 
-  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
+  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
   - [Lecture notebook](lectures/lecture_12.ipynb)
 
-+ Lecture 13 - Advanced Curve Fitting: Gaussian Process Regression, 02/25/2020.
++ Lecture 13 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/25/2020.
 
-  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
+  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
   - [Lecture notebook](lectures/lecture_13.ipynb)
 
-+ Lecture 14 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 02/27/2020.
++ Lecture 14 - Advanced Curve Fitting: Gaussian Process Regression, 02/27/2020.
 
-  - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
+  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
   - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/03/2020.
++ Lecture 15 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 03/03/2020.
 
-  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
+  - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
   - [Lecture notebook](lectures/lecture_15.ipynb)
 
-+ **No lecture on Tuesday 03/05/2020** (DARPA visit).
++ Lecture 16 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/05/2020.
 
-  - The instructor will be at DARPA for a mandatory final report of a research project.
-  - The TA will have office hours at WALC 2127 to help students out with any problems they may have.
-
-+ Lecture 16 - Calibration of physical models, 03/10/2020.
-
-  - Topics: TBD.
+  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
   - [Lecture notebook](lectures/lecture_16.ipynb)
 
-+ Lecture 17 - State-space models: Kalman filters, 03/12/2020.
++ Lecture 17 - Calibration of physical models, 03/10/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_17.ipynb)
+
++ Lecture 18 - State-space models: Kalman filters, 03/12/2020.
+
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_18.ipynb)
 
 + **No lecture on Tuesday 03/17/2020** (spring break).
 
 + **No lecture on Thursday 03/19/2020** (spring break).
 
-+ Lecture 18 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_18.ipynb)
-
-+ Lecture 19 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 03/26/2020.
++ Lecture 19 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_19.ipynb)
 
-+ Lecture 20 - Sampling from Posteriors: Gibbs Sampling, 03/31/2020.
-
-  - Topics: TBD
-  - [Lecture notebook](lectures/lecture_20.ipynb)
-
-+ Lecture 21 - Sampling from Posteriors: Sequential Monte Carlo, 04/02/2020.
++ Lecture 20 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 03/26/2020.
 
   - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_20.ipynb)
+
++ Lecture 21 - Sampling from Posteriors: Gibbs Sampling, 03/31/2020.
+
+  - Topics: TBD
   - [Lecture notebook](lectures/lecture_21.ipynb)
 
-+ Lecture 22 - Bayesian Model Selection, 04/07/2020.
++ Lecture 22 - Sampling from Posteriors: Sequential Monte Carlo, 04/02/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_22.ipynb)
 
-+ Lecture 23 - Estimating Posteriors: Variational Inference, 04/09/2020.
++ Lecture 23 - Bayesian Model Selection, 04/07/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_23.ipynb)
 
-+ Lecture 24 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/14/2020.
++ Lecture 24 - Estimating Posteriors: Variational Inference, 04/09/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_24.ipynb)
 
-+ Lecture 25 - Bayesian Model Selection with Variational Inference, 04/16/2020.
++ Lecture 25 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/14/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Lecture 26 - Deep Neural Networks (Part I), 04/21/2020.
++ Lecture 26 - Bayesian Model Selection with Variational Inference, 04/16/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_26.ipynb)
 
-+ Lecture 27 - Deep Neural Networks (Part II), 04/23/2020.
++ Lecture 27 - Deep Neural Networks (Part I), 04/21/2020.
+
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_27.ipynb)
 
-+ Lecture 28 - Deep Neural Networks (Part III), 04/28/2020
++ Lecture 28 - Deep Neural Networks (Part II), 04/23/2020.
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_28.ipynb)
 
-+ Lecture 29 - Deep Neural Networks (Part IV), 04/30/2020
++ Lecture 29 - Deep Neural Networks (Part III), 04/28/2020
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_29.ipynb)
+
++ Lecture 30 - Deep Neural Networks (Part IV), 04/30/2020
+  - Topics: TBD.
+  - [Lecture notebook](lectures/lecture_30.ipynb)
 
 ## Homework Notebooks
 
