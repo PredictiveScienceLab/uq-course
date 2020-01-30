@@ -50,7 +50,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 6 - Introduction to Probability Theory (Part IV), 01/30/2020.
 
-  - Topics: Quantiles, credible intervals, Bayesian decision making, analytical Bayesian inference examples.
+  - Topics: Bayesian parameter estimation, credible intervals, Bayesian decision making, analytical Bayesian inference examples.
   - [Lecture notebook](lectures/lecture_06.ipynb)
 
 + Lecture 7 - Introduction to Probability Theory (Part V), 02/04/2020.
