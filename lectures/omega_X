@@ -1,0 +1,5 @@
+digraph omega_X {
+	omega [label=<&omega;>]
+	X
+	omega -> X
+}

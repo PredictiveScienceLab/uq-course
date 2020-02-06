@@ -1,0 +1,7 @@
+digraph coin_toss_bayes_2 {
+	theta [label=<&theta;>]
+	X1 [label=<X<sub>1</sub>> style=filled]
+	X2 [label=<X<sub>2</sub>> style=filled]
+	theta -> X1
+	theta -> X2
+}

@@ -1,0 +1,11 @@
+digraph Urn3 {
+	reds [label="# red balls" style=filled]
+	blues [label="# blue balls" style=filled]
+	first [label="1st draw" style=filled]
+	second [label="2nd draw"]
+	reds -> first
+	blues -> first
+	first -> second
+	reds -> second
+	blues -> second
+}
