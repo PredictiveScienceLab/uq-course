@@ -73,39 +73,39 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Taylor series expansions; The Laplace Approximation; Low-order perturbation methods for dynamical systems; Method of adjoints.
   - [Lecture notebook](lectures/lecture_10.ipynb)
 
-+ Lecture 11 - Basics of Curve Fitting: The Generalized Linear Model, 02/18/2020.
++ Lecture 11 - Model Checking and Evaluation, 02/18/2020.
 
-  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
+  - Topics: External validity, posterior predictive checking, test statistics, Bayesian p-values, examples.
   - [Lecture notebook](lectures/lecture_11.ipynb)
 
-+ Lecture 12 - Basics of Curve Fitting: Bayesian Linear Regression, 02/20/2020.
++ Lecture 12 - Basics of Curve Fitting: The Generalized Linear Model, 02/20/2020.
 
-  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
+  - Topics: Supervised learning, regression, generalized linear model, least squares, maximum likelihood.
   - [Lecture notebook](lectures/lecture_12.ipynb)
 
-+ Lecture 13 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/25/2020.
++ Lecture 13 - Basics of Curve Fitting: Bayesian Linear Regression, 02/25/2020.
 
-  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
+  - Topics: Maximum a posteriori estimates, Bayesian linear regression, evidence approximation, automatic relevance determination.
   - [Lecture notebook](lectures/lecture_13.ipynb)
 
-+ Lecture 14 - Advanced Curve Fitting: Gaussian Process Regression, 02/27/2020.
++ Lecture 14 - Advanced Curve Fitting: Gaussian Processes to Encode Prior Knowledge about Functions, 02/27/2020.
 
-  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
+  - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
   - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 03/03/2020.
++ Lecture 15 - Advanced Curve Fitting: Gaussian Process Regression, 03/03/2020.
 
-  - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
+  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
   - [Lecture notebook](lectures/lecture_15.ipynb)
 
-+ Lecture 16 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/05/2020.
++ Lecture 16 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 03/05/2020.
 
-  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
+  - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
   - [Lecture notebook](lectures/lecture_16.ipynb)
 
-+ Lecture 17 - Calibration of physical models, 03/10/2020.
++ Lecture 17 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/10/2020.
 
-  - Topics: TBD.
+  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
   - [Lecture notebook](lectures/lecture_17.ipynb)
 
 + Lecture 18 - State-space models: Kalman filters, 03/12/2020.
@@ -194,7 +194,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Tentative, [Homework 9 - (Lectures 25-29)](homeworks/hw_08.ipynb), due 05/03/2020.
 
-## Project submission timeline 
+## Project submission timeline
 
 + Title and abstract, due 02/15/2020.
 
