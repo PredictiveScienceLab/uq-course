@@ -180,7 +180,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 2 - (Lectures 7-10)](homeworks/hw_02.ipynb), due 02/18/2020.
 
-+ [Homework 3 - (Lectures 11-12)](homeworks/hw_03.ipynb), due 03/03/2020.
++ [Homework 3 - (Lectures 12-13)](homeworks/hw_03.ipynb), due 03/05/2020.
 
 + Tentative, [Homework 4 - (Lectures 12-13)](homeworks/hw_04.ipynb): due 03/03/2020.
 
