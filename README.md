@@ -93,24 +93,24 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Stochastic processes, random fields, Gaussian process, mean functions, covariance functions, sampling from a Gaussian process, encoding prior knowledge about functions.
   - [Lecture notebook](lectures/lecture_14.ipynb)
 
-+ Lecture 15 - Advanced Curve Fitting: Gaussian Process Regression, 03/03/2020.
++ Lecture 15 - Advanced Curve Fitting: Gaussian Process Regression I, 03/03/2020.
 
-  - Topics: Conditioning Gaussian random fields on exact and noisy observations, diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
+  - Topics: Conditioning Gaussian random fields on exact and noisy observations.
   - [Lecture notebook](lectures/lecture_15.ipynb)
 
-+ Lecture 16 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 03/05/2020.
++ Lecture 16 - Advanced Curve Fitting: Gaussian Process Regression II, 03/05/2020.
+
+  - Topics: Diagnostics for curve fitting, estimating the hyperparameters of covariance functions.
+  - [Lecture notebook](lectures/lecture_15.ipynb) (same as lecture 15)
+
++ Lecture 17 - Advanced Curve Fitting: Multivariate Gaussian Process Regression and Automatic Relevance Determination, 03/10/2020.
 
   - Topics: Multivariate Gaussian process regression, automatic relevance determination, the curse of dimensionality, active subspaces, high-dimensional model representation.
-  - [Lecture notebook](lectures/lecture_16.ipynb)
-
-+ Lecture 17 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/10/2020.
-
-  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
   - [Lecture notebook](lectures/lecture_17.ipynb)
 
-+ Lecture 18 - State-space models: Kalman filters, 03/12/2020.
++ Lecture 18 - Application of Gaussian Process Regression: Optimizing expensive black-box functions, 03/12/2020.
 
-  - Topics: TBD.
+  - Topics: Bayesian global optimization without noise, maximum upper interval, probability of improvement, expected improvement, quantifying epistemic uncertainty in the location of the maximum, Bayesian global optimization with noise.
   - [Lecture notebook](lectures/lecture_18.ipynb)
 
 + **No lecture on Tuesday 03/17/2020** (spring break).
