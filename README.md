@@ -117,10 +117,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + **No lecture on Thursday 03/19/2020** (spring break).
 
-+ Lecture 19 - Inverse Problems/Model Calibration: Classical Approaches, 03/24/2020.
++ Lecture 19 - Inverse Problems/Model Calibration: Classical Approach, 03/24/2020.
 
-  - Topics: Formulate inverse problems as optimization problems, reaction kinetics example, shortcomings.
+  - Topics: Formulate inverse problems as optimization problems, reaction kinetics example, shortcomings of the classical approach.
   - [Lecture notebook](lectures/lecture_19.ipynb)
+
++ Lecture 20 - Inverse Problems/Model Calibration: Bayesian Approach, 03/26/2020.
+
+  - Topics: Ill-posed problems, Bayesian formulation, reminder of the Laplace approximation, reaction kinetics example, shortcomings of the Laplace approximation.
+  - [Lecture notebook](lectures/lecture_20.ipynb)
 
 + Subject to change from this point on.
 
