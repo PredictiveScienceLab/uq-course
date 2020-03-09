@@ -117,6 +117,13 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + **No lecture on Thursday 03/19/2020** (spring break).
 
++ Lecture 19 - Inverse Problems/Model Calibration: Classical Approaches, 03/24/2020.
+
+  - Topics: Formulate inverse problems as optimization problems, reaction kinetics example, shortcomings.
+  - [Lecture notebook](lectures/lecture_19.ipynb)
+
++ Subject to change from this point on.
+
 + Lecture 19 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
 
   - Topics: TBD.
