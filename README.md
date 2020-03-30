@@ -134,7 +134,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 22 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 04/02/2020.
 
-  - Topics: TBD.
+  - Topics: Metropolis-Hastings, Metropolis-Adjusted Langevin Dynamics, Gibbs sampling, Hierarchical Bayes.
   - [Lecture notebook](lectures/lecture_22.ipynb)
 
 + Lecture 23 - Sampling from Posteriors: Gibbs Sampling, 04/07/2020.
