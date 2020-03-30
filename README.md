@@ -157,7 +157,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Practice Lab - Bayesian Model Selection using Sequential Monte Carlo, 04/21/2020.
 
-      - Use this time to practice on [Lecture notebook 24](lectures/lecture_24.ipynb)
+  - Use this time to practice on [Lecture notebook 24](lectures/lecture_24.ipynb)
 
 + Lecture 25 - Estimating Posteriors: Variational Inference, 04/28/2020.
 
@@ -166,7 +166,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Practice Lab - Estimating Posteriors: Variational Inference, 04/30/2020.
 
-      - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
+  - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
 
 ## Homework Notebooks
 
@@ -178,15 +178,9 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 03/03/2020.
 
-+ Tentative, [Homework 5 - (Lectures 14-15)](homeworks/hw_05.ipynb): due 03/10/2020.
++ Tentative, [Homework 5 - (Lectures TBD](homeworks/hw_05.ipynb): due TBD
 
-+ Tentative, [Homework 6 - (Lectures 16-17)](homeworks/hw_06.ipynb), due 03/24/2020.
-
-+ Tentative, [Homework 7 - (Lectures 18-20)](homeworks/hw_07.ipynb), due 04/02/2020.
-
-+ Tentative, [Homework 8 - (Lectures 20-24)](homeworks/hw_08.ipynb), due 04/21/2020.
-
-+ Tentative, [Homework 9 - (Lectures 25-29)](homeworks/hw_08.ipynb), due 05/03/2020.
++ Tentative, [Homework 6 - (Lectures TBD)](homeworks/hw_06.ipynb), due TBD
 
 ## Project submission timeline
 
