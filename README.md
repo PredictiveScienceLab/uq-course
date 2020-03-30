@@ -129,7 +129,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 21 - Sampling from Posteriors: The Metropolis Algorithm, 03/31/2020.
 
-  - Topics: TBD
+  - Topics: Basics of Markov chains, random walks, Metropolis algorithm, Bayesian calibration of the catalysis problem.
   - [Lecture notebook](lectures/lecture_21.ipynb)
 
 + Lecture 22 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 04/02/2020.
