@@ -127,62 +127,50 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
   - Topics: Ill-posed problems, Bayesian formulation, reminder of the Laplace approximation, reaction kinetics example, shortcomings of the Laplace approximation.
   - [Lecture notebook](lectures/lecture_20.ipynb)
 
-+ Subject to change from this point on.
-
-+ Lecture 19 - Sampling from Posteriors: The Metropolis Algorithm, 03/24/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_19.ipynb)
-
-+ Lecture 20 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 03/26/2020.
-
-  - Topics: TBD.
-  - [Lecture notebook](lectures/lecture_20.ipynb)
-
-+ Lecture 21 - Sampling from Posteriors: Gibbs Sampling, 03/31/2020.
++ Lecture 21 - Sampling from Posteriors: The Metropolis Algorithm, 03/31/2020.
 
   - Topics: TBD
   - [Lecture notebook](lectures/lecture_21.ipynb)
 
-+ Lecture 22 - Sampling from Posteriors: Sequential Monte Carlo, 04/02/2020.
++ Lecture 22 - Sampling from Posteriors: The Metropolis-Hastings algorithm, 04/02/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_22.ipynb)
 
-+ Lecture 23 - Bayesian Model Selection, 04/07/2020.
++ Lecture 23 - Sampling from Posteriors: Gibbs Sampling, 04/07/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_23.ipynb)
 
-+ Lecture 24 - Estimating Posteriors: Variational Inference, 04/09/2020.
++ Lecture 24 - Sampling from Posteriors: Sequential Monte Carlo, 04/09/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_24.ipynb)
 
-+ Lecture 25 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/14/2020.
++ Lecture 25 - Bayesian Model Selection, 04/14/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Lecture 26 - Bayesian Model Selection with Variational Inference, 04/16/2020.
++ Lecture 26 - Estimating Posteriors: Variational Inference, 04/16/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_26.ipynb)
 
-+ Lecture 27 - Deep Neural Networks (Part I), 04/21/2020.
++ Lecture 27 - Estimating Posteriors: Automatic Differentiation Variational Inference, 04/21/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_27.ipynb)
 
-+ Lecture 28 - Deep Neural Networks (Part II), 04/23/2020.
++ Lecture 28 - Bayesian Model Selection with Variational Inference, 04/23/2020.
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_28.ipynb)
 
-+ Lecture 29 - Deep Neural Networks (Part III), 04/28/2020
++ Lecture 29 - Deep Neural Networks (Part I), 04/28/2020
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_29.ipynb)
 
-+ Lecture 30 - Deep Neural Networks (Part IV), 04/30/2020
++ Lecture 30 - Deep Neural Networks (Part II), 04/30/2020
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_30.ipynb)
 
