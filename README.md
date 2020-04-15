@@ -147,7 +147,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 23 - PyMC3 Tutorial, 04/14/2020.
 
-  - Topics: TBD.
+  - Topics: Defining distributions and models with `PyMC3`, performing MCMC simulations with `pymc3.sample`, real world dataset examples.
   - [Lecture notebook](lectures/lecture_23.ipynb)
 
 + Lecture 24 - Bayesian Model Selection using Sequential Monte Carlo, 04/16/2020.
