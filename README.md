@@ -176,17 +176,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 3 - (Lectures 12-13)](homeworks/hw_03.ipynb), due 03/12/2020.
 
-+ [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 03/03/2020.
++ [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 04/03/2020.
 
-+ Tentative, [Homework 5 - (Lectures TBD](homeworks/hw_05.ipynb): due TBD
-
-+ Tentative, [Homework 6 - (Lectures TBD)](homeworks/hw_06.ipynb), due TBD
++ [Homework 5 - (Lectures 19-24)](homeworks/hw_05.ipynb): due 05/07/2020.
 
 ## Project submission timeline
 
 + Title and abstract, due 02/15/2020.
 
-+ Final report, due TBD.
++ Final report, due 05/04/2020.
 
 
 ## Running the notebooks on Google Colab
