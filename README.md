@@ -159,15 +159,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Use this time to practice on [Lecture notebook 24](lectures/lecture_24.ipynb)
 
-+ Lecture 25 - Estimating Posteriors: Variational Inference, 04/28/2020.
++ Lecture 25 - Estimating Posteriors: Variational Inference, 04/23/2020.
 
   - Topics: TBD.
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Practice Lab - Estimating Posteriors: Variational Inference, 04/30/2020.
++ Practice Lab - Estimating Posteriors: Variational Inference, 04/28/2020.
 
   - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
-
+  
 ## Homework Notebooks
 
 + [Homework 1 (Lectures 1-6)](homeworks/hw_01.ipynb), due 02/04/2020.
