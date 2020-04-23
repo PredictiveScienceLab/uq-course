@@ -161,7 +161,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 25 - Estimating Posteriors: Variational Inference, 04/23/2020.
 
-  - Topics: TBD.
+  - Topics: Introduction to Variational Inference, VI with `PyMC3` .
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
 + Practice Lab - Estimating Posteriors: Variational Inference, 04/28/2020.
