@@ -167,6 +167,11 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 + Practice Lab - Estimating Posteriors: Variational Inference, 04/28/2020.
 
   - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
+ 
++ Lecture 26 - Advanced Curve Fitting: Deep Neural Networks, 04/30/2020.
+
+  - Topics: Introduction to basic concepts in deep neural networks, setting up DNNs in `PyTorch`, setting by Bayesian DNNs in `pyro`, physics-informed deep neural networks for solving PDEs.
+  - [Lecture notebook](lectures/lecture_26.ipynb)
   
 ## Homework Notebooks
 
