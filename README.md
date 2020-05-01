@@ -170,7 +170,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
  
 + Lecture 26 - Advanced Curve Fitting: Deep Neural Networks, 04/30/2020.
 
-  - Topics: Introduction to basic concepts in deep neural networks, setting up DNNs in `PyTorch`, setting by Bayesian DNNs in `pyro`, physics-informed deep neural networks for solving PDEs.
+  - Topics: Introduction to basic concepts in deep neural networks, setting up DNNs in `PyTorch`, setting up Bayesian DNNs in `pyro`, physics-informed deep neural networks for solving PDEs.
   - [Lecture notebook](lectures/lecture_26.ipynb)
   
 ## Homework Notebooks
