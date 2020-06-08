@@ -147,7 +147,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + Lecture 23 - PyMC3 Tutorial, 04/14/2020.
 
-  - Topics: TBD.
+  - Topics: Defining distributions and models with `PyMC3`, performing MCMC simulations with `pymc3.sample`, real world dataset examples.
   - [Lecture notebook](lectures/lecture_23.ipynb)
 
 + Lecture 24 - Bayesian Model Selection using Sequential Monte Carlo, 04/16/2020.
@@ -159,15 +159,20 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
   - Use this time to practice on [Lecture notebook 24](lectures/lecture_24.ipynb)
 
-+ Lecture 25 - Estimating Posteriors: Variational Inference, 04/28/2020.
++ Lecture 25 - Estimating Posteriors: Variational Inference, 04/23/2020.
 
-  - Topics: TBD.
+  - Topics: Introduction to Variational Inference, VI with `PyMC3` .
   - [Lecture notebook](lectures/lecture_25.ipynb)
 
-+ Practice Lab - Estimating Posteriors: Variational Inference, 04/30/2020.
++ Practice Lab - Estimating Posteriors: Variational Inference, 04/28/2020.
 
   - Use this time to practice on [Lecture notebook 25](lectures/lecture_25.ipynb)
+ 
++ Lecture 26 - Advanced Curve Fitting: Deep Neural Networks, 04/30/2020.
 
+  - Topics: Introduction to basic concepts in deep neural networks, setting up DNNs in `PyTorch`, setting up Bayesian DNNs in `pyro`, physics-informed deep neural networks for solving PDEs.
+  - [Lecture notebook](lectures/lecture_26.ipynb)
+  
 ## Homework Notebooks
 
 + [Homework 1 (Lectures 1-6)](homeworks/hw_01.ipynb), due 02/04/2020.
@@ -176,17 +181,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 3 - (Lectures 12-13)](homeworks/hw_03.ipynb), due 03/12/2020.
 
-+ [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 03/03/2020.
++ [Homework 4 - (Lectures 13-16)](homeworks/hw_04.ipynb): due 04/03/2020.
 
-+ Tentative, [Homework 5 - (Lectures TBD](homeworks/hw_05.ipynb): due TBD
-
-+ Tentative, [Homework 6 - (Lectures TBD)](homeworks/hw_06.ipynb), due TBD
++ [Homework 5 - (Lectures 19-24)](homeworks/hw_05.ipynb): due 05/07/2020.
 
 ## Project submission timeline
 
 + Title and abstract, due 02/15/2020.
 
-+ Final report, due TBD.
++ Final report, due 05/04/2020.
 
 
 ## Running the notebooks on Google Colab
