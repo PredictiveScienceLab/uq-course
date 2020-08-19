@@ -1,9 +1,9 @@
 # Introduction to Uncertainty Quantification
 
-This version of the course is being taught at Purdue University during Spring 2020.
+This version of the course was taught at Purdue University during Spring 2020.
 The code for the course is ME 59700 and MA 59800.
 The instructor is Prof. [Ilias Bilionis](https://www.predictivesciencelab.org/authors/ebilionis/).
-The class meets every Tuesday and Thursday 12:00pm-1:15pm at WALC 2127.
+The class meet every Tuesday and Thursday 12:00pm-1:15pm at WALC 2127.
 
 The goal of this course is to introduce the fundamentals of uncertainty quantification to advanced undergraduates or graduate engineering and science students with research interests in the field of predictive modeling. Upon completion of this course the students should be able to:
 
